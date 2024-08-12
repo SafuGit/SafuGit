@@ -19,6 +19,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The troubles of scraping a minecraft map.](https://dev.to/safugit/the-troubles-of-scraping-a-minecraft-map-2j6n)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
