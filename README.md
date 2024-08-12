@@ -14,4 +14,4 @@
 
 <p><img align="left" src="https://readme-stats-fork-nine.vercel.app/api/top-langs?username=safugit&show_icons=true&locale=en&layout=compact" alt="safugit" /></p>
 
-<p>&nbsp;<img align="center" src="https://readme-stats-fork-nine.vercel.app/api?username=safugit&show_icons=true&locale=en" alt="safugit" /></p>
+
