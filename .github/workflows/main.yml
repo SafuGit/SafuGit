@@ -1,68 +1,21 @@
-  - name: Blog Post Workflow
-  # You may pin to the exact commit or the version.
-  # uses: gautamkrishnar/blog-post-workflow@d0dc27adfd19a1a263429d39937888a9dfba2f5f
-  uses: gautamkrishnar/blog-post-workflow@1.8.7
-  with:
-    # GitHub access token with Repo scope
-    gh_token: # optional, default is ${{ github.token }}
-    # Comma separated paths of the readme files you want to update
-    readme_path: # optional, default is ./README.md
-    # Maximum number of posts you want to show on your readme, all feeds combined
-    max_post_count: # optional, default is 5
-    # Comma separated list of RSS feed urls
-    feed_list: # default is 
-    # Disables the sorting of list based on publish date
-    disable_sort: # optional, default is false
-    # Comma separated list of platforms you want to enable the comment filter
-    filter_comments: # optional, default is stackoverflow/Comment by $author/,stackexchange/Comment by $author/
-    # Inserts newline before the closing tag and after the opening tag when using the template option, for formatting
-    tag_post_pre_newline: # optional
-    # Template to use while creating the list of posts. It can contain $title,$url, $newline and $date as variables
-    template: # optional, default is default
-    # Allows you to change the format of the date or time displayed when using the $date in the template option
-    date_format: # optional, default is UTC:ddd mmm dd yyyy h:MM TT
-    # Override the default comment tag name, if you want to show multiple instances of the action on the same repo
-    comment_tag_name: # optional
-    # Allows you to customize the user agent used by the RSS feed crawler
-    user_agent: # optional, default is rss-parser
-    # Allows you to customize the accept header of the http request
-    accept_header: # optional, default is application/rss+xml
-    # Allows you to use the custom tags from your feed items in your template
-    custom_tags: # optional, default is 
-    # Allows you to trim the title in the posts list
-    title_max_length: # optional, default is 
-    # Allows you to trim the description in the posts list
-    description_max_length: # optional, default is 
-    # Allows you to execute custom JavaScript code on each item to do advanced text manipulation
-    item_exec: # optional, default is 
-    # Commit message used while committing to the repo
-    commit_message: # optional, default is Updated with the latest blog posts
-    # Username used while committing to the repo
-    committer_username: # optional, default is blog-post-bot
-    # Email id used while committing to the repo
-    committer_email: # optional, default is blog-post-bot@example.com
-    # Prevent updating the readme, instead sets the output to the output variable named `results`
-    output_only: # optional, default is false
-    # Enables the feature that keeps the repo active by automatically committing to it even though there is no change
-    enable_keepalive: # optional, default is true
-    # Maximum number of times to retry the fetch operation if it fails
-    retry_count: # optional, default is 0
-    # Time to wait before each retry operation in seconds
-    retry_wait_time: # optional, default is 1
-    # Comma separated name of the feeds to show on template
-    feed_names: # optional, default is 
-    # Disables html encoding of the feed contents
-    disable_html_encoding: # optional, default is false
-    # Allows you to specify a template for the individual items in the category list
-    categories_template: # optional, default is default
-    # Disables the validation checks for Title, publish date and URL
-    disable_item_validation: # optional, default is false
-    # Enables date filters
-    filter_dates: # optional, default is 
-    # Provide your own seeding string for the randomness
-    rand_seed: # optional, default is 
-    # Allows you to remove duplicate blog posts from multiple sources
-    remove_duplicates: # optional, default is 
-    # Skips committing the changes to repo
-    skip_commit: # optional, default is false
-          
+name: Generate Blog List
+
+on:
+  push:
+  schedule:
+    - cron: "0 */1 * * *"
+jobs:
+  blog:
+    runs-on: ubuntu-latest
+    name: Fetch and Generate Blog Posts
+    steps:
+      - uses: actions/checkout@v3
+      - name: GitHub Readme Blog Post Action
+        uses: ErrorGamer2000/github-readme-blog-post-action@v1
+        with:
+          feed_urls: "https://dev.to/feed/safugit"
+      - name: Commit changed files
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Save Generated Blog Posts
+          skip_checkout: true
