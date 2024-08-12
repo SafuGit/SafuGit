@@ -1,3 +1,6 @@
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
 <h1 align="center">Hi 👋, I'm Safu</h1>
 <h3 align="center">A passionate fullstack developer from Bangladesh</h3>
 
@@ -33,4 +36,6 @@
 
 <p><img align="left" src="https://readme-stats-fork-nine.vercel.app/api/top-langs?username=safugit&show_icons=true&locale=en&layout=donut&theme=merko" alt="safugit" /></p>
 
+<p><img align="center" src="https://readme-stats-fork-nine.vercel.app/api?username=safugit&show_icons=true&locale=en&theme=merko&hide=contribs,issues&include_all_commits=true&show=prs_merged_percentage" alt="safugit" /> </p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
