@@ -20,7 +20,7 @@
 
 - ⚡ Fun fact **I tried C# before Python**
 
-### Blogs posts
+### Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [The troubles of scraping a minecraft map.](https://dev.to/safugit/the-troubles-of-scraping-a-minecraft-map-2j6n)
 <!-- BLOG-POST-LIST:END -->
