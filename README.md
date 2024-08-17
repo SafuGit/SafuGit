@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Django Projects**
 
-- 🌱 I’m currently learning **Django, React**
+- 🌱 I’m currently learning **Django, Rust**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SafuGit](https://github.com/SafuGit)
 
