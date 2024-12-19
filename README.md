@@ -1,16 +1,21 @@
-<img align="right" height="200" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"  />
-
-###
+<img align="right" height="300" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"  />
 
 <div id="user-content-toc" align="center">
   <ul>
-    <summary><h1 align="center">Safwan Sadid</h1></summary>
+    <summary><h1 align="center"><b>Safwan Sadid</b></h1></summary>
   </ul>
 </div>
 
 ###
 
-<p align="left">Fullstack Developer from Bangladesh</p>
+Fullstack Developer from Bangladesh 
+-  🔭 My main languages are - Python, Javascript, HTML/CSS & Java
+
+- 👨‍💻 All of my projects are available at [https://github.com/SafuGit](https://github.com/SafuGit)
+
+- 📝 (Portfolio Coming Soon)
+
+- 💬 Ask me about **Linux**
 
 ###
 
