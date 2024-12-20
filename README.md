@@ -9,7 +9,7 @@
 ###
 
 Fullstack Developer from Bangladesh 
--  🔭 My main languages are - Python, Javascript, HTML/CSS & Java
+-  🔭 My main languages are - Python, Typescript, HTML/CSS & Java
 
 - 👨‍💻 All of my projects are available on [Github](https://github.com/SafuGit)
 
