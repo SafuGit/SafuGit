@@ -83,4 +83,43 @@ Fullstack Developer from Bangladesh
 
 ![Snake animation](https://raw.githubusercontent.com/SafuGit/SafuGit/output/github-contribution-grid-snake-dark.svg)
 
+<hr>
+<br>
+
+## Featured Projects
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="400">
+      <img src="https://placehold.co/300x150.png?text=jobBazar" alt="jobBazarBD" width="100%">
+      <br>
+      <h3><a href="https://github.com/SafuGit/jobBazar">JobBazar.com</a></h3>
+      <p>A very feature-rich job posting and applying portal to get employees or get hired</p>
+    </td>
+    <td align="center" width="400">
+      <img src="https://placehold.co/300x150.png?text=CollegeMana." alt="College Management" width="100%">
+      <br>
+      <h3><a href="https://github.com/mdsiyam3210/CollegeManagementSystem">College Management</a></h3>
+      <p>A simple easy to use local College Management website to sort students & teachers </p>
+    </td>
+  </tr>
+<!--   <tr>
+    <td align="center" width="400">
+      <img src="https://via.placeholder.com/300x150.png?text=Dotfiles" alt="Dotfiles Repository" width="100%">
+      <br>
+      <h3><a href="https://github.com/SafuGit/linux-dotfiles">Dotfiles Repository</a></h3>
+      <p>My personalized Linux dotfiles to maximize productivity and aesthetics.</p>
+    </td>
+    <td align="center" width="400">
+      <img src="https://via.placeholder.com/300x150.png?text=Linux+Scripts" alt="Linux Scripts" width="100%">
+      <br>
+      <h3><a href="https://github.com/SafuGit/linux-scripts">Linux Scripts</a></h3>
+      <p>A collection of useful shell scripts for Linux automation and task management.</p>
+    </td>
+  </tr> -->
+</table>
+</div>
+<br>
+
 ###
