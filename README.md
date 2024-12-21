@@ -79,6 +79,8 @@ Fullstack Developer from Bangladesh
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" height="40"/>
 </div>
 
 ![Snake animation](https://raw.githubusercontent.com/SafuGit/SafuGit/output/github-contribution-grid-snake-dark.svg)
