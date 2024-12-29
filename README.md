@@ -106,20 +106,20 @@ Fullstack Developer from Bangladesh
       <p>A simple easy to use local College Management website to sort students & teachers </p>
     </td>
   </tr>
-<!--   <tr>
+  <tr>
     <td align="center" width="400">
-      <img src="https://via.placeholder.com/300x150.png?text=Dotfiles" alt="Dotfiles Repository" width="100%">
+      <img src="https://placehold.co/300x150.png?text=ConverterApp" alt="Converter App" width="100%">
       <br>
-      <h3><a href="https://github.com/SafuGit/linux-dotfiles">Dotfiles Repository</a></h3>
-      <p>My personalized Linux dotfiles to maximize productivity and aesthetics.</p>
+      <h3><a href="https://github.com/SafuGit/ConverterApp">Converter App</a></h3>
+      <p>An Android App for different types of Conversions, Made with Android XML Layouts & Java.</p>
     </td>
-    <td align="center" width="400">
+<!--     <td align="center" width="400">
       <img src="https://via.placeholder.com/300x150.png?text=Linux+Scripts" alt="Linux Scripts" width="100%">
       <br>
       <h3><a href="https://github.com/SafuGit/linux-scripts">Linux Scripts</a></h3>
       <p>A collection of useful shell scripts for Linux automation and task management.</p>
-    </td>
-  </tr> -->
+    </td> -->
+  </tr> 
 </table>
 </div>
 <br>
