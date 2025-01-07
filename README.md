@@ -85,6 +85,8 @@ Fullstack Developer from Bangladesh
 
 ![Snake animation](https://raw.githubusercontent.com/SafuGit/SafuGit/output/github-contribution-grid-snake-dark.svg)
 
+<h2>Frameworks :- <b> AngularJS, SpringBoot, Django, Flutter </b> </h2>
+
 <hr>
 <br>
 
