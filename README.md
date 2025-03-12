@@ -8,7 +8,7 @@
 
 ###
 
-Fullstack Developer from Bangladesh 
+Fullstack Developer & Linux Enthusiast from Bangladesh 
 -  🔭 My main languages are - Python, Typescript, HTML/CSS & Java
 
 - 👨‍💻 All of my projects are available on [Github](https://github.com/SafuGit)
@@ -125,5 +125,25 @@ Fullstack Developer from Bangladesh
 </table>
 </div>
 <br>
+
+## Linux Related
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="400">
+      <img src="https://placehold.co/300x150.png?text=SafuVIM" alt="SafuVIM" width="100%">
+      <br>
+      <h3><a href="https://github.com/SafuGit/safuvim-v2">SafuVIM V2</a></h3>
+      <p>My neovim config made with differents of plugins and opiniated keybinds</p>
+    </td>
+    <td align="center" width="400">
+      <img src="https://placehold.co/300x150.png?text=Dotfiles" alt="Dotfiles" width="100%">
+      <br>
+      <h3><a href="https://github.com/safugit/dotfiles">Dotfiles (Arch)</a></h3>
+      <p>My arch linux dotfiles made with qtile, can be used with other distros to.</p>
+    </td>
+  </tr></table>
+</div>
 
 ###
