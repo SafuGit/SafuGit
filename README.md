@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/341eeec8-bb4b-4e19-be7c-abf0d88e108b)
+![image](https://github.com/user-attachments/assets/6382d1a1-d804-41a6-aae1-3185e8f67cfc)
 
 <div id="user-content-toc" align="center">
   <ul>
