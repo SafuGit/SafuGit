@@ -1,4 +1,4 @@
-<img align="right" height="300" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"  />
+![image](https://github.com/user-attachments/assets/341eeec8-bb4b-4e19-be7c-abf0d88e108b)
 
 <div id="user-content-toc" align="center">
   <ul>
