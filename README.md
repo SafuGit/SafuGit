@@ -9,7 +9,7 @@
 ###
 
 Fullstack Developer & Linux Enthusiast from Bangladesh 
--  🔭 My main languages are - Python, Typescript, HTML/CSS & Java
+-  🔭 My main languages are - Python, Typescript, Javascript, HTML/CSS, Java & Dart
 
 - 👨‍💻 All of my projects are available on [Github](https://github.com/SafuGit)
 
@@ -17,11 +17,16 @@ Fullstack Developer & Linux Enthusiast from Bangladesh
 
 - 💬 Ask me about **Linux**
 
-###
+<h1>About Me</h1>
+<p>I am a 14-year-old self motivated individual who began coding during the pandemic in 2020. Initially it was just a hobby but later on it became a love for problem-solving. Throughout the years, I have worked on many projects. At the moment, I am looking for places where I can use the knowledge I have, learn more about the industry, and to create useful products.</p>
 
-<br clear="both">
-<br>
+## ✍️ Random Dev Quote
 
+[![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?category=programming)](https://github.com/cheehwatang/github-readme-daily-quotes)
+
+## 🌐 Socials:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/safwan-sadid-1b1978358) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:safwan55.ah@gmail.com) 
 
 <h1>Databases</h1>
 <div align="left">
@@ -55,61 +60,5 @@ Fullstack Developer & Linux Enthusiast from Bangladesh
 
 <hr>
 <br>
-
-## Featured Projects
-
-<div align="center">
-<table>
-  <tr>
-    <td align="center" width="400">
-      <img src="https://placehold.co/300x150.png?text=jobBazar" alt="jobBazarBD" width="100%">
-      <br>
-      <h3><a href="https://github.com/SafuGit/jobBazar">JobBazar.com</a></h3>
-      <p>A very feature-rich job posting and applying portal to get employees or get hired</p>
-    </td>
-    <td align="center" width="400">
-      <img src="https://placehold.co/300x150.png?text=CollegeMana." alt="College Management" width="100%">
-      <br>
-      <h3><a href="https://github.com/mdsiyam3210/CollegeManagementSystem">College Management</a></h3>
-      <p>A simple easy to use local College Management website to sort students & teachers </p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="400">
-      <img src="https://placehold.co/300x150.png?text=ConverterApp" alt="Converter App" width="100%">
-      <br>
-      <h3><a href="https://github.com/SafuGit/ConverterApp">Converter App</a></h3>
-      <p>An Android App for different types of Conversions, Made with Android XML Layouts & Java.</p>
-    </td>
-    <td align="center" width="400">
-      <img src="https://placehold.co/300x150.png?text=CalculatorApp" alt="Calculator App" width="100%">
-      <br>
-      <h3><a href="https://github.com/safugit/calculator_app">Calculator App</a></h3>
-      <p>An android Calculator App, Made with Flutter Android & Dart</p>
-    </td>
-  </tr> 
-</table>
-</div>
-<br>
-
-## Linux Related
-
-<div align="center">
-<table>
-  <tr>
-    <td align="center" width="400">
-      <img src="https://placehold.co/300x150.png?text=SafuVIM" alt="SafuVIM" width="100%">
-      <br>
-      <h3><a href="https://github.com/SafuGit/safuvim-v2">SafuVIM V2</a></h3>
-      <p>My neovim config made with differents of plugins and opiniated keybinds</p>
-    </td>
-    <td align="center" width="400">
-      <img src="https://placehold.co/300x150.png?text=Dotfiles" alt="Dotfiles" width="100%">
-      <br>
-      <h3><a href="https://github.com/safugit/dotfiles">Dotfiles (Arch)</a></h3>
-      <p>My arch linux dotfiles made with qtile, can be used with other distros to.</p>
-    </td>
-  </tr></table>
-</div>
 
 ###
