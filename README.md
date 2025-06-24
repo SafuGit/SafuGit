@@ -56,9 +56,12 @@ Fullstack Developer & Linux Enthusiast from Bangladesh
   
 </div>
 
-![Snake animation](https://raw.githubusercontent.com/SafuGit/SafuGit/output/github-contribution-grid-snake-dark.svg)
-
 <hr>
 <br>
+
+# Statistics
+![Snake animation](https://raw.githubusercontent.com/SafuGit/SafuGit/output/github-contribution-grid-snake-dark.svg)
+
+![SafuGit's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SafuGit&theme=merko&show_icons=true&hide_border=false&layout=compact)
 
 ###
