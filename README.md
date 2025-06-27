@@ -20,10 +20,6 @@ Fullstack Developer & Linux Enthusiast from Bangladesh
 <h1>About Me</h1>
 <p>I am a 14-year-old self motivated individual who began coding during the pandemic in 2020. Initially it was just a hobby but later on it became a love for problem-solving. Throughout the years, I have worked on many projects. At the moment, I am looking for places where I can use the knowledge I have, learn more about the industry, and to create useful products.</p>
 
-## ✍️ Random Dev Quote
-
-[![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?category=programming)](https://github.com/cheehwatang/github-readme-daily-quotes)
-
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/safwan-sadid-1b1978358) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:safwan55.ah@gmail.com) 
