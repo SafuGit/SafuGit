@@ -13,7 +13,7 @@ Fullstack Developer & Linux Enthusiast from Bangladesh
 
 - 👨‍💻 All of my projects are available on [Github](https://github.com/SafuGit)
 
-- 📝 (Portfolio Coming Soon)
+- 📝 [My Portfolio Website](https://safu-portfolio.netlify.app/#home)
 
 - 💬 Ask me about **Linux**
 
