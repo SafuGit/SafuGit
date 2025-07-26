@@ -18,7 +18,7 @@ Fullstack Developer & Linux Enthusiast from Bangladesh
 - 💬 Ask me about **Linux**
 
 <h1>About Me</h1>
-<p>I am a 14-year-old self motivated individual who began coding during the pandemic in 2020. Initially it was just a hobby but later on it became a love for problem-solving. Throughout the years, I have worked on many projects. At the moment, I am looking for places where I can use the knowledge I have, learn more about the industry, and to create useful products.</p>
+<p>I am a self motivated individual who has been coding for 3+ years. Initially it was just a hobby but later on it became a love for problem-solving. Throughout the years, I have worked on many projects. At the moment, I am looking for places where I can use the knowledge I have, learn more about the industry, and to create useful products.</p>
 
 ## 🌐 Socials:
 
