@@ -41,7 +41,7 @@ Fullstack Developer & Linux Enthusiast from Bangladesh
 <h1>Frameworks</h1>
 <div align="left">
 
-  [![My Skills](https://skillicons.dev/icons?i=angular,django,fastapi,expressjs,flask,flutter,react,spring,tailwindcss,vite,bootstrap&theme=dark&perline=16)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=angular,django,fastapi,expressjs,flask,flutter,react,nextjs,spring,tailwindcss,vite,bootstrap&theme=dark&perline=16)](https://skillicons.dev)
   
 </div>
 
