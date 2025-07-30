@@ -1,68 +1,60 @@
-![image](https://github.com/user-attachments/assets/6382d1a1-d804-41a6-aae1-3185e8f67cfc)
+![Banner](https://github.com/user-attachments/assets/6382d1a1-d804-41a6-aae1-3185e8f67cfc)
 
-<div id="user-content-toc" align="center">
-  <ul>
-    <summary><h1 align="center"><b>Safwan Sadid</b></h1></summary>
-  </ul>
-</div>
-
-###
-
-Fullstack Developer & Linux Enthusiast from Bangladesh 
--  🔭 My main languages are - Python, Typescript, Javascript, HTML/CSS, Java & Dart
-
-- 👨‍💻 All of my projects are available on [Github](https://github.com/SafuGit)
-
-- 📝 [My Portfolio Website](https://safu-portfolio.netlify.app/#home)
-
-- 💬 Ask me about **Linux**
-
-<h1>About Me</h1>
-<p>I am a self motivated individual who has been coding for 3+ years. Initially it was just a hobby but later on it became a love for problem-solving. Throughout the years, I have worked on many projects. At the moment, I am looking for places where I can use the knowledge I have, learn more about the industry, and to create useful products.</p>
-
-## 🌐 Socials:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/safwan-sadid-1b1978358) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:safwan55.ah@gmail.com) 
-
-<h1>Databases</h1>
-<div align="left">
-
-  [![My Skills](https://skillicons.dev/icons?i=firebase,mongodb,mysql,postgresql,supabase&theme=dark&perline=16)](https://skillicons.dev)
-  
-</div>
-
-<h1>Languages</h1>
-<div align="left">
-  
-  [![My Skills](https://skillicons.dev/icons?i=css,dart,html,markdown,java,javascript,nodejs,python,typescript&theme=dark&perline=16)](https://skillicons.dev)
-  
-</div>
-
-<h1>Frameworks</h1>
-<div align="left">
-
-  [![My Skills](https://skillicons.dev/icons?i=angular,django,fastapi,expressjs,flask,flutter,react,nextjs,spring,tailwindcss,vite,bootstrap&theme=dark&perline=16)](https://skillicons.dev)
-  
-</div>
-
-<h1>Tools & Others</h1>
-<div align="left">
-
-  [![My Skills](https://skillicons.dev/icons?i=androidstudio,arch,devto,docker,figma,firebase,git,github,githubactions,idea,kali,linux,linkedin,neovim,netlify,nix,pycharm&theme=dark&perline=17)](https://skillicons.dev)
-  
-</div>
-
-<hr>
-<br>
-
-# Statistics
-![Snake animation](https://raw.githubusercontent.com/SafuGit/SafuGit/output/github-contribution-grid-snake-dark.svg)
-
-<p float="left">
-
-  ![SafuGit's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SafuGit&theme=merko&show_icons=true&hide_border=false&layout=compact)
-  ![SafuGit's Stats](https://github-readme-stats.vercel.app/api?username=SafuGit&theme=merko&show_icons=true&hide_border=false&count_private=true)
-  
+<h1 align="center"><b>Safwan Sadid</b></h1>
+<p align="center">
+  <i>Full Stack Developer & Linux Enthusiast from Bangladesh</i>
 </p>
 
-###
+---
+
+### 🚀 About Me
+
+I’m a self-motivated developer with 3+ years of experience in programming. What started as a hobby turned into a passion for building and solving real-world problems. I've worked on numerous full-stack projects, led small teams, and continuously explore new technologies. I’m currently looking for opportunities where I can contribute, grow, and help build meaningful products.
+
+---
+
+### 🧠 What I Work With
+
+#### 🗃️ Databases
+[![Skills](https://skillicons.dev/icons?i=firebase,mongodb,mysql,postgresql,supabase&theme=dark)](https://skillicons.dev)
+
+#### 🧑‍💻 Languages
+[![Skills](https://skillicons.dev/icons?i=python,typescript,javascript,java,dart,html,css,markdown,nodejs&theme=dark)](https://skillicons.dev)
+
+#### ⚙️ Frameworks & Libraries
+[![Skills](https://skillicons.dev/icons?i=angular,react,nextjs,django,flask,fastapi,expressjs,spring,flutter,tailwindcss,vite,bootstrap&theme=dark)](https://skillicons.dev)
+
+#### 🛠️ Tools & Platforms
+[![Skills](https://skillicons.dev/icons?i=linux,arch,kali,nix,neovim,git,github,githubactions,netlify,docker,figma,pycharm,idea,androidstudio,devto,linkedin&theme=dark)](https://skillicons.dev)
+
+---
+
+### 🌐 Online Presence
+
+- 👨‍💻 All of my projects are available on [GitHub](https://github.com/SafuGit)
+- 📝 Check out [My Portfolio Website](https://safu-portfolio.netlify.app/#home)
+- 💬 Ask me anything about **Linux**, DevOps, or Full Stack Development
+
+---
+
+### 📞 Contact Me
+
+Feel free to reach out or connect with me!
+
+| 📧 Email                                           | 📱 Phone/WhatsApp   | 🐙 GitHub                            |
+| -------------------------------------------------- | ------------------- | ----------------------------------- |
+| safwansadid.ah@gmail.com / safwan55.ah@gmail.com   | +8801981575920      | [SafuGit](https://github.com/SafuGit) |
+
+---
+
+### 📊 GitHub Statistics
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SafuGit&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![Snake animation](https://raw.githubusercontent.com/SafuGit/SafuGit/output/github-contribution-grid-snake-dark.svg)
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SafuGit&theme=dark&show_icons=true&hide_border=false&layout=compact" width="400" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SafuGit&theme=dark&show_icons=true&hide_border=false&count_private=true" width="527" alt="GitHub Stats" />
+</p>
+
