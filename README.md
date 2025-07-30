@@ -54,7 +54,7 @@ Feel free to reach out or connect with me!
 ![Snake animation](https://raw.githubusercontent.com/SafuGit/SafuGit/output/github-contribution-grid-snake-dark.svg)
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SafuGit&theme=dark&show_icons=true&hide_border=false&layout=compact" width="400" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=SafuGit&theme=dark&show_icons=true&hide_border=false&count_private=true" width="527" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SafuGit&theme=dark&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SafuGit&theme=dark&show_icons=true&hide_border=false&layout=compact"  alt="Top Languages" />
 </p>
 
