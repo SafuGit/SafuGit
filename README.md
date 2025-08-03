@@ -49,12 +49,28 @@ Feel free to reach out or connect with me!
 
 ### 📊 GitHub Statistics
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SafuGit&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<picture>
+  <source srcset="https://github-readme-activity-graph.vercel.app/graph?username=SafuGit&theme=react-dark" media="(prefers-color-scheme: dark)">
+  <source srcset="https://github-readme-activity-graph.vercel.app/graph?username=SafuGit&theme=light" media="(prefers-color-scheme: light)">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SafuGit" alt="GitHub Activity Graph" />
+</picture>
 
-![Snake animation](https://raw.githubusercontent.com/SafuGit/SafuGit/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source srcset="https://raw.githubusercontent.com/SafuGit/SafuGit/output/github-contribution-grid-snake-dark.svg" media="(prefers-color-scheme: dark)">
+  <source srcset="https://raw.githubusercontent.com/SafuGit/SafuGit/output/github-contribution-grid-snake-light.svg" media="(prefers-color-scheme: light)">
+  <img src="https://raw.githubusercontent.com/SafuGit/SafuGit/output/github-contribution-grid-snake-light.svg" alt="Snake Animation" />
+</picture>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SafuGit&theme=dark&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SafuGit&theme=dark&show_icons=true&hide_border=false&layout=compact"  alt="Top Languages" />
-</p>
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api?username=SafuGit&theme=dark&show_icons=true&hide_border=false&count_private=true" media="(prefers-color-scheme: dark)">
+    <source srcset="https://github-readme-stats.vercel.app/api?username=SafuGit&theme=light&show_icons=true&hide_border=false&count_private=true" media="(prefers-color-scheme: light)">
+    <img src="https://github-readme-stats.vercel.app/api?username=SafuGit&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" />
+  </picture>
 
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SafuGit&theme=dark&show_icons=true&hide_border=false&layout=compact" media="(prefers-color-scheme: dark)">
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SafuGit&theme=light&show_icons=true&hide_border=false&layout=compact" media="(prefers-color-scheme: light)">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SafuGit&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" />
+  </picture>
+</p>
