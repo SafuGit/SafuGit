@@ -64,7 +64,7 @@ Feel free to reach out or connect with me!
 <p align="left">
   <picture>
     <source srcset="https://github-readme-stats.vercel.app/api?username=SafuGit&theme=dark&show_icons=true&hide_border=false&count_private=true" media="(prefers-color-scheme: dark)">
-    <source srcset="[https://github-readme-stats.vercel.app/api?username=SafuGit&theme=light&show_icons=true&hide_border=false&count_private=true](https://github-readme-activity-graph.vercel.app/graph?username=SafuGit&bg_color=ffffff&color=2e700a&line=228415&point=403d3d&area=true&hide_border=true)" media="(prefers-color-scheme: light)">
+    <source srcset="https://github-readme-activity-graph.vercel.app/graph?username=SafuGit&bg_color=ffffff&color=2e700a&line=228415&point=403d3d&area=true&hide_border=true" media="(prefers-color-scheme: light)">
     <img src="https://github-readme-stats.vercel.app/api?username=SafuGit&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" />
   </picture>
 
