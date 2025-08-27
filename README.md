@@ -32,7 +32,6 @@ I’m a self-motivated developer with 3+ years of experience in programming. Wha
 ### 🌐 Online Presence
 
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/SafuGit)
-- 📝 Check out [My Portfolio Website](https://safu-portfolio.netlify.app/#home)
 - 💬 Ask me anything about **Linux**, DevOps, or Full Stack Development
 
 ---
