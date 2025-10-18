@@ -42,7 +42,7 @@ Feel free to reach out or connect with me!
 
 | 📧 Email                                           | 📱 Phone/WhatsApp   | 🐙 GitHub                            |
 | -------------------------------------------------- | ------------------- | ----------------------------------- |
-| safwansadid.ah@gmail.com / safwan55.ah@gmail.com   | +8801981575920      | [SafuGit](https://github.com/SafuGit) |
+| safwansadid.ah@gmail.com / safwan55.ah@gmail.com   |       | [SafuGit](https://github.com/SafuGit) |
 
 ---
 
