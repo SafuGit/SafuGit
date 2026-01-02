@@ -31,25 +31,184 @@ I’m a self-motivated developer with 3+ years of experience in programming. Wha
 # My Skills
 
 ## Frontend
-<img src="https://cdn.simpleicons.org/react" alt="React" width="50" height="50" /> <img src="https://cdn.simpleicons.org/nextdotjs" alt="Next.js" width="50" height="50" /> <img src="https://cdn.simpleicons.org/angular" alt="Angular" width="50" height="50" /> <img src="https://cdn.simpleicons.org/flutter" alt="Flutter" width="50" height="50" /> <img src="https://cdn.simpleicons.org/tailwindcss" alt="Tailwind CSS" width="50" height="50" /> <img src="https://avatars.githubusercontent.com/u/76474668?s=200&v=4" alt="Daisy UI" width="50" height="50" /> <img src="https://cdn.simpleicons.org/bootstrap" alt="Bootstrap" width="50" height="50" /> <img src="https://cdn.simpleicons.org/framer" alt="Framer Motion" width="50" height="50" />
+<div style="display: inline-block; text-align: center; margin: 5px;">
+  <img src="https://images.seeklogo.com/logo-png/55/1/daisyui-logo-png_seeklogo-554509.png
+" alt="Daisy UI" width="50" height="50" />
+  <p style="margin: 0; font-size: 12px;">Daisy UI</p>
+</div> <div style="display: inline-block; text-align: center; margin: 5px;">
+  <img src="https://cdn.brandfetch.io/idDJv1mfrb/w/1080/h/1080/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1753779057992" alt="Framer Motion" width="50" height="50" />
+  <p style="margin: 0; font-size: 12px;">Framer Motion</p>
+</div> <div style="display: inline-block; text-align: center; margin: 5px;">
+  <img src="https://toppng.com/uploads/preview/angular-logo-11609355165bd2msuomqq.png" alt="Angular" width="50" height="50" />
+  <p style="margin: 0; font-size: 12px;">Angular</p>
+</div> <div style="display: inline-block; text-align: center; margin: 5px;">
+  <img src="https://cdn.simpleicons.org/react" alt="React" width="50" height="50" />
+  <p style="margin: 0; font-size: 12px;">React</p>
+</div> <div style="display: inline-block; text-align: center; margin: 5px;">
+  <img src="https://cdn.simpleicons.org/nextdotjs" alt="Next.js" width="50" height="50" />
+  <p style="margin: 0; font-size: 12px;">Next.js</p>
+</div> <div style="display: inline-block; text-align: center; margin: 5px;">
+  <img src="https://cdn.simpleicons.org/flutter" alt="Flutter" width="50" height="50" />
+  <p style="margin: 0; font-size: 12px;">Flutter</p>
+</div> <div style="display: inline-block; text-align: center; margin: 5px;">
+  <img src="https://cdn.simpleicons.org/tailwindcss" alt="Tailwind CSS" width="50" height="50" />
+  <p style="margin: 0; font-size: 12px;">Tailwind CSS</p>
+</div> <div style="display: inline-block; text-align: center; margin: 5px;">
+  <img src="https://cdn.simpleicons.org/bootstrap" alt="Bootstrap" width="50" height="50" />
+  <p style="margin: 0; font-size: 12px;">Bootstrap</p>
+</div>
 
 ## Backend
-<img src="https://cdn.simpleicons.org/nodedotjs" alt="Node.js" width="50" height="50" /> <img src="https://cdn.simpleicons.org/express" alt="Express.js" width="50" height="50" /> <img src="https://cdn.simpleicons.org/springboot" alt="Spring Boot" width="50" height="50" /> <img src="https://cdn.simpleicons.org/django" alt="Django" width="50" height="50" /> <img src="https://cdn.simpleicons.org/flask" alt="Flask" width="50" height="50" />
+<div style="display: inline-block; text-align: center; margin: 5px;">
+  <img src="https://logowik.com/content/uploads/images/express-js1720895488.logowik.com.webp" alt="Express.js" width="50" height="50" />
+  <p style="margin: 0; font-size: 12px;">Express.js</p>
+</div> <div style="display: inline-block; text-align: center; margin: 5px;">
+  <img src="https://cdn.simpleicons.org/nodedotjs" alt="Node.js" width="50" height="50" />
+  <p style="margin: 0; font-size: 12px;">Node.js</p>
+</div> <div style="display: inline-block; text-align: center; margin: 5px;">
+  <img src="https://cdn.simpleicons.org/springboot" alt="Spring Boot" width="50" height="50" />
+  <p style="margin: 0; font-size: 12px;">Spring Boot</p>
+</div> <div style="display: inline-block; text-align: center; margin: 5px;">
+  <img src="https://cdn.simpleicons.org/django" alt="Django" width="50" height="50" />
+  <p style="margin: 0; font-size: 12px;">Django</p>
+</div> <div style="display: inline-block; text-align: center; margin: 5px;">
+  <img src="https://cdn.simpleicons.org/flask" alt="Flask" width="50" height="50" />
+  <p style="margin: 0; font-size: 12px;">Flask</p>
+</div>
 
 ## Languages
-<img src="https://cdn.simpleicons.org/python" alt="Python" width="50" height="50" /> <img src="https://cdn.simpleicons.org/typescript" alt="TypeScript" width="50" height="50" /> <img src="https://cdn.simpleicons.org/javascript" alt="JavaScript" width="50" height="50" /> <img src="https://cdn.simpleicons.org/dart" alt="Dart" width="50" height="50" /> <img src="https://cdn.simpleicons.org/openjdk" alt="Java" width="50" height="50" /> <img src="https://cdn.simpleicons.org/html5" alt="HTML5" width="50" height="50" /> <img src="https://cdn.simpleicons.org/css3" alt="CSS3" width="50" height="50" /> <img src="https://cdn.simpleicons.org/mysql" alt="SQL" width="50" height="50" />
+<div style="display: inline-block; text-align: center; margin: 5px;">
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" alt="Java" width="50" height="50" />
+  <p style="margin: 0; font-size: 12px;">Java</p>
+</div> <div style="display: inline-block; text-align: center; margin: 5px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/2048px-CSS3_logo.svg.png" alt="CSS3" width="50" height="50" />
+  <p style="margin: 0; font-size: 12px;">CSS3</p>
+</div> <div style="display: inline-block; text-align: center; margin: 5px;">
+  <img src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.svg
 
-## Databases
-<img src="https://cdn.simpleicons.org/mongodb" alt="MongoDB" width="50" height="50" /> <img src="https://cdn.simpleicons.org/mysql" alt="MySQL" width="50" height="50" /> <img src="https://cdn.simpleicons.org/postgresql" alt="PostgreSQL" width="50" height="50" /> <img src="https://cdn.simpleicons.org/firebase" alt="Firebase" width="50" height="50" /> <img src="https://cdn.simpleicons.org/supabase" alt="Supabase" width="50" height="50" /> <img src="https://cdn.simpleicons.org/prisma" alt="Prisma" width="50" height="50" />
+" alt="SQL" width="50" height="50" />
+  <p style="margin: 0; font-size: 12px;">SQL</p>
+</div> <div style="display: inline-block; text-align: center; margin: 5px;">
+  <img src="https://cdn.simpleicons.org/python" alt="Python" width="50" height="50" />
+  <p style="margin: 0; font-size: 12px;">Python</p>
+</div> <div style="display: inline-block; text-align: center; margin: 5px;">
+  <img src="https://cdn.simpleicons.org/typescript" alt="TypeScript" width="50" height="50" />
+  <p style="margin: 0; font-size: 12px;">TypeScript</p>
+</div> <div style="display: inline-block; text-align: center; margin: 5px;">
+  <img src="https://cdn.simpleicons.org/javascript" alt="JavaScript" width="50" height="50" />
+  <p style="margin: 0; font-size: 12px;">JavaScript</p>
+</div> <div style="display: inline-block; text-align: center; margin: 5px;">
+  <img src="https://cdn.simpleicons.org/dart" alt="Dart" width="50" height="50" />
+  <p style="margin: 0; font-size: 12px;">Dart</p>
+</div> <div style="display: inline-block; text-align: center; margin: 5px;">
+  <img src="https://cdn.simpleicons.org/html5" alt="HTML5" width="50" height="50" />
+  <p style="margin: 0; font-size: 12px;">HTML5</p>
+</div>
 
 ## Tools
-<img src="https://cdn.simpleicons.org/git" alt="Git" width="50" height="50" /> <img src="https://cdn.simpleicons.org/postman" alt="Postman" width="50" height="50" /> <img src="https://cdn.simpleicons.org/visualstudiocode" alt="VS Code" width="50" height="50" /> <img src="https://cdn.simpleicons.org/docker" alt="Docker" width="50" height="50" /> <img src="https://cdn.simpleicons.org/figma" alt="Figma" width="50" height="50" /> <img src="https://cdn.simpleicons.org/netlify" alt="Netlify" width="50" height="50" /> <img src="https://cdn.simpleicons.org/vite" alt="Vite" width="50" height="50" /> <img src="https://cdn.simpleicons.org/canva" alt="Canva" width="50" height="50" /> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/CapCut_logo.svg" alt="CapCut" width="50" height="50" /> <img src="https://cdn.simpleicons.org/microsoftoffice" alt="MS Office Suite" width="50" height="50" /> <img src="https://cdn.simpleicons.org/google" alt="Google Workspace" width="50" height="50" />
+<div style="display: inline-block; text-align: center; margin: 5px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="VS Code" width="50" height="50" />
+  <p style="margin: 0; font-size: 12px;">VS Code</p>
+</div> <div style="display: inline-block; text-align: center; margin: 5px;">
+  <img src="https://vectorseek.com/wp-content/uploads/2025/07/canva-ai-Logo-PNG-SVG-Vector-01.png" alt="Canva" width="50" height="50" />
+  <p style="margin: 0; font-size: 12px;">Canva</p>
+</div> <div style="display: inline-block; text-align: center; margin: 5px;">
+  <img src="https://static.vecteezy.com/system/resources/previews/067/065/640/non_2x/capcut-logo-square-rounded-capcut-logo-capcut-logo-free-download-free-png.png" alt="CapCut" width="50" height="50" />
+  <p style="margin: 0; font-size: 12px;">CapCut</p>
+</div> <div style="display: inline-block; text-align: center; margin: 5px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Microsoft_Office_logo_%282013%E2%80%932019%29.svg/1012px-Microsoft_Office_logo_%282013%E2%80%932019%29.svg.png" alt="MS Office Suite" width="50" height="50" />
+  <p style="margin: 0; font-size: 12px;">MS Office Suite</p>
+</div> <div style="display: inline-block; text-align: center; margin: 5px;">
+  <img src="https://cdn.simpleicons.org/git" alt="Git" width="50" height="50" />
+  <p style="margin: 0; font-size: 12px;">Git</p>
+</div> <div style="display: inline-block; text-align: center; margin: 5px;">
+  <img src="https://cdn.simpleicons.org/postman" alt="Postman" width="50" height="50" />
+  <p style="margin: 0; font-size: 12px;">Postman</p>
+</div> <div style="display: inline-block; text-align: center; margin: 5px;">
+  <img src="https://cdn.simpleicons.org/docker" alt="Docker" width="50" height="50" />
+  <p style="margin: 0; font-size: 12px;">Docker</p>
+</div> <div style="display: inline-block; text-align: center; margin: 5px;">
+  <img src="https://cdn.simpleicons.org/figma" alt="Figma" width="50" height="50" />
+  <p style="margin: 0; font-size: 12px;">Figma</p>
+</div> <div style="display: inline-block; text-align: center; margin: 5px;">
+  <img src="https://cdn.simpleicons.org/netlify" alt="Netlify" width="50" height="50" />
+  <p style="margin: 0; font-size: 12px;">Netlify</p>
+</div> <div style="display: inline-block; text-align: center; margin: 5px;">
+  <img src="https://cdn.simpleicons.org/vite" alt="Vite" width="50" height="50" />
+  <p style="margin: 0; font-size: 12px;">Vite</p>
+</div> <div style="display: inline-block; text-align: center; margin: 5px;">
+  <img src="https://cdn.simpleicons.org/google" alt="Google Workspace" width="50" height="50" />
+  <p style="margin: 0; font-size: 12px;">Google Workspace</p>
+</div>
 
 ## AI Tools
-<img src="https://avatars.githubusercontent.com/u/121346067?s=200&v=4" alt="Flowise" width="50" height="50" /> <img src="https://cdn.simpleicons.org/n8n" alt="n8n" width="50" height="50" /> <img src="https://cdn.simpleicons.org/githubcopilot" alt="GitHub Copilot" width="50" height="50" /> <img src="https://avatars.githubusercontent.com/u/126769956?s=200&v=4" alt="Cursor" width="50" height="50" /> <img src="https://cdn.simpleicons.org/anthropic" alt="Claude" width="50" height="50" /> <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" alt="Gemini" width="50" height="50" /> <img src="https://cdn.simpleicons.org/openai" alt="OpenAI" width="50" height="50" /> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Google_%22G%22_logo.svg" alt="Google Stitch" width="50" height="50" />
+<div style="display: inline-block; text-align: center; margin: 5px;">
+  <img src="https://avatars.githubusercontent.com/u/128289781?v=4" alt="Flowise" width="50" height="50" />
+  <p style="margin: 0; font-size: 12px;">Flowise</p>
+</div> <div style="display: inline-block; text-align: center; margin: 5px;">
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-copilot-icon.png" alt="GitHub Copilot" width="50" height="50" />
+  <p style="margin: 0; font-size: 12px;">GitHub Copilot</p>
+</div> <div style="display: inline-block; text-align: center; margin: 5px;">
+  <img src="https://cdn.brandfetch.io/ideKwS9dxx/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1741336988021" alt="Cursor" width="50" height="50" />
+  <p style="margin: 0; font-size: 12px;">Cursor</p>
+</div> <div style="display: inline-block; text-align: center; margin: 5px;">
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/claude-ai-icon.png" alt="Claude" width="50" height="50" />
+  <p style="margin: 0; font-size: 12px;">Claude</p>
+</div> <div style="display: inline-block; text-align: center; margin: 5px;">
+  <img src="https://pnghdpro.com/wp-content/themes/pnghdpro/download/social-media-and-brands/gemini-app-icon.png" alt="Gemini" width="50" height="50" />
+  <p style="margin: 0; font-size: 12px;">Gemini</p>
+</div> <div style="display: inline-block; text-align: center; margin: 5px;">
+  <img src="https://cdn.brandfetch.io/idR3duQxYl/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1749527355219" alt="OpenAI" width="50" height="50" />
+  <p style="margin: 0; font-size: 12px;">OpenAI</p>
+</div> <div style="display: inline-block; text-align: center; margin: 5px;">
+  <img src="https://cdn.simpleicons.org/n8n" alt="n8n" width="50" height="50" />
+  <p style="margin: 0; font-size: 12px;">n8n</p>
+</div> <div style="display: inline-block; text-align: center; margin: 5px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Google_%22G%22_logo.svg" alt="Google Stitch" width="50" height="50" />
+  <p style="margin: 0; font-size: 12px;">Google Stitch</p>
+</div>
 
 ## Services
-<img src="https://cdn.simpleicons.org/stripe" alt="Stripe" width="50" height="50" /> <img src="https://logo.clearbit.com/sslcommerz.com" alt="SSLCOMMERZ" width="50" height="50" /> <img src="https://logo.clearbit.com/portpos.com" alt="PortPos" width="50" height="50" /> <img src="https://logo.clearbit.com/eps.com.bd" alt="EPS" width="50" height="50" /> <img src="https://cdn-icons-png.flaticon.com/512/657/657076.png" alt="Payment Gateway" width="50" height="50" /> <img src="https://cdn.simpleicons.org/jsonwebtokens" alt="JWT Authentication" width="50" height="50" />
+<div style="display: inline-block; text-align: center; margin: 5px;">
+  <img src="https://play-lh.googleusercontent.com/OpdgJSX_O1buqjnPOcTmGWmsA7zOiQD9a5L9gsk9DgWz1yQWR2IgnIuSpvXjYw1LzA=w240-h480-rw" alt="SSLCOMMERZ" width="50" height="50" />
+  <p style="margin: 0; font-size: 12px;">SSLCOMMERZ</p>
+</div> <div style="display: inline-block; text-align: center; margin: 5px;">
+  <img src="https://play-lh.googleusercontent.com/25gD1UsJlZ-TvRU3ydSUW_no0yc65OeEB2yTOWDrQRtbAHcIFnm1WZSszUMz43wUZeg" alt="PortPos" width="50" height="50" />
+  <p style="margin: 0; font-size: 12px;">PortPos</p>
+</div> <div style="display: inline-block; text-align: center; margin: 5px;">
+  <img src="https://www.eps.com.bd/images/icon/favicon.png" alt="EPS" width="50" height="50" />
+  <p style="margin: 0; font-size: 12px;">EPS</p>
+</div> <div style="display: inline-block; text-align: center; margin: 5px;">
+  <img src="https://cdn.simpleicons.org/stripe" alt="Stripe" width="50" height="50" />
+  <p style="margin: 0; font-size: 12px;">Stripe</p>
+</div> <div style="display: inline-block; text-align: center; margin: 5px;">
+  <img src="https://cdn-icons-png.flaticon.com/512/657/657076.png" alt="Payment Gateway" width="50" height="50" />
+  <p style="margin: 0; font-size: 12px;">Payment Gateway</p>
+</div> <div style="display: inline-block; text-align: center; margin: 5px;">
+  <img src="https://cdn.simpleicons.org/jsonwebtokens" alt="JWT Authentication" width="50" height="50" />
+  <p style="margin: 0; font-size: 12px;">JWT Authentication</p>
+</div>
+
+## Databases
+<div style="display: inline-block; text-align: center; margin: 5px;">
+  <img src="https://cdn.simpleicons.org/mongodb" alt="MongoDB" width="50" height="50" />
+  <p style="margin: 0; font-size: 12px;">MongoDB</p>
+</div> <div style="display: inline-block; text-align: center; margin: 5px;">
+  <img src="https://cdn.simpleicons.org/mysql" alt="MySQL" width="50" height="50" />
+  <p style="margin: 0; font-size: 12px;">MySQL</p>
+</div> <div style="display: inline-block; text-align: center; margin: 5px;">
+  <img src="https://cdn.simpleicons.org/postgresql" alt="PostgreSQL" width="50" height="50" />
+  <p style="margin: 0; font-size: 12px;">PostgreSQL</p>
+</div> <div style="display: inline-block; text-align: center; margin: 5px;">
+  <img src="https://cdn.simpleicons.org/firebase" alt="Firebase" width="50" height="50" />
+  <p style="margin: 0; font-size: 12px;">Firebase</p>
+</div> <div style="display: inline-block; text-align: center; margin: 5px;">
+  <img src="https://cdn.simpleicons.org/supabase" alt="Supabase" width="50" height="50" />
+  <p style="margin: 0; font-size: 12px;">Supabase</p>
+</div> <div style="display: inline-block; text-align: center; margin: 5px;">
+  <img src="https://cdn.simpleicons.org/prisma" alt="Prisma" width="50" height="50" />
+  <p style="margin: 0; font-size: 12px;">Prisma</p>
+</div>
 
 <!-- END_SKILLS -->
 
