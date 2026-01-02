@@ -117,9 +117,7 @@ I’m a self-motivated developer with 3+ years of experience in programming. Wha
   <sub>CSS3</sub>
 </td>
 <td align="center" width="80">
-  <img src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.svg
-
-" alt="SQL" width="50" height="50" />
+  <img src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.svg" alt="SQL" width="50" height="50" />
   <br />
   <sub>SQL</sub>
 </td>
