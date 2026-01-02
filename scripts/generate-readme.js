@@ -17,19 +17,20 @@ function generateMarkdown(skills) {
 
   skills.forEach((skill) => {
     if (!categories[skill.category]) categories[skill.category] = [];
-    const badge = `<div style="display: flex; flex-direction: column; align-items: center; margin: 10px; width: 80px;">
+    const badge = `<td align="center" width="80">
   <img src="${skill.iconUrl}" alt="${skill.name}" width="50" height="50" />
-  <p style="margin: 5px 0 0 0; font-size: 12px; text-align: center;">${skill.name}</p>
-</div>`;
+  <br />
+  <sub>${skill.name}</sub>
+</td>`;
     categories[skill.category].push(badge);
   });
 
   let md = `# My Skills\n\n`;
   for (const category of Object.keys(categories)) {
     md += `## ${category}\n`;
-    md += `<div style="display: flex; flex-wrap: wrap; justify-content: flex-start;">\n`;
+    md += `<table><tr>\n`;
     md += categories[category].join("\n") + "\n";
-    md += `</div>\n\n`;
+    md += `</tr></table>\n\n`;
   }
 
   return md;
