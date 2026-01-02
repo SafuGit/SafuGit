@@ -17,7 +17,7 @@ function generateMarkdown(skills) {
 
   skills.forEach(skill => {
     if (!categories[skill.category]) categories[skill.category] = [];
-    const badge = `![${skill.name}](${skill.iconUrl})`;
+    const badge = `<img src="${skill.iconUrl}" alt="${skill.name}" width="50" height="50" />`;
     categories[skill.category].push(badge);
   });
 
