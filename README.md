@@ -28,6 +28,26 @@ I’m a self-motivated developer with 3+ years of experience in programming. Wha
 [![Skills](https://skillicons.dev/icons?i=linux,arch,kali,nix,neovim,git,github,githubactions,netlify,docker,figma,pycharm,idea,androidstudio,devto,linkedin&theme=dark)](https://skillicons.dev) -->
 
 <!-- START_SKILLS -->
+# My Skills
+
+## Frontend
+![React](https://simpleicons.org/icons/react.svg) ![Next.js](https://simpleicons.org/icons/nextdotjs.svg) ![Angular](https://simpleicons.org/icons/angular.svg) ![Flutter](https://simpleicons.org/icons/flutter.svg) ![Tailwind CSS](https://simpleicons.org/icons/tailwindcss.svg) ![Daisy UI](https://raw.githubusercontent.com/saadeghi/daisyui-logo/master/daisyui.svg) ![Bootstrap](https://simpleicons.org/icons/bootstrap.svg) ![Framer Motion](https://simpleicons.org/icons/framer.svg)
+
+## Backend
+![Node.js](https://simpleicons.org/icons/nodedotjs.svg) ![Express.js](https://simpleicons.org/icons/express.svg) ![Spring Boot](https://simpleicons.org/icons/springboot.svg) ![Django](https://simpleicons.org/icons/django.svg) ![Flask](https://simpleicons.org/icons/flask.svg)
+
+## Languages
+![Python](https://simpleicons.org/icons/python.svg) ![TypeScript](https://simpleicons.org/icons/typescript.svg) ![JavaScript](https://simpleicons.org/icons/javascript.svg) ![Dart](https://simpleicons.org/icons/dart.svg) ![Java](https://simpleicons.org/icons/openjdk.svg) ![HTML5](https://simpleicons.org/icons/html5.svg) ![CSS3](https://simpleicons.org/icons/css3.svg) ![Markdown](https://simpleicons.org/icons/markdown.svg)
+
+## Databases
+![MongoDB](https://simpleicons.org/icons/mongodb.svg) ![MySQL](https://simpleicons.org/icons/mysql.svg) ![PostgreSQL](https://simpleicons.org/icons/postgresql.svg) ![Firebase](https://simpleicons.org/icons/firebase.svg) ![Supabase](https://simpleicons.org/icons/supabase.svg) ![Prisma](https://simpleicons.org/icons/prisma.svg)
+
+## Tools
+![Git](https://simpleicons.org/icons/git.svg) ![Postman](https://simpleicons.org/icons/postman.svg) ![VS Code](https://simpleicons.org/icons/visualstudiocode.svg) ![Docker](https://simpleicons.org/icons/docker.svg) ![Figma](https://simpleicons.org/icons/figma.svg) ![GitHub](https://simpleicons.org/icons/github.svg) ![Netlify](https://simpleicons.org/icons/netlify.svg) ![Vite](https://simpleicons.org/icons/vite.svg) ![Linux](https://simpleicons.org/icons/linux.svg) ![Arch Linux](https://simpleicons.org/icons/archlinux.svg) ![Kali Linux](https://simpleicons.org/icons/kalilinux.svg) ![Android Studio](https://simpleicons.org/icons/androidstudio.svg) ![IntelliJ IDEA](https://simpleicons.org/icons/intellijidea.svg) ![PyCharm](https://simpleicons.org/icons/pycharm.svg)
+
+## AI Tools
+![Claude](https://simpleicons.org/icons/anthropic.svg) ![Gemini](https://simpleicons.org/icons/googlegemini.svg) ![n8n](https://simpleicons.org/icons/n8n.svg)
+
 <!-- END_SKILLS -->
 
 ---
