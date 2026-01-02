@@ -15,7 +15,7 @@ I’m a self-motivated developer with 3+ years of experience in programming. Wha
 
 ### 🧠 What I Work With
 
-#### 🗃️ Databases
+<!-- #### 🗃️ Databases
 [![Skills](https://skillicons.dev/icons?i=firebase,mongodb,mysql,postgresql,supabase&theme=dark)](https://skillicons.dev)
 
 #### 🧑‍💻 Languages
@@ -25,7 +25,10 @@ I’m a self-motivated developer with 3+ years of experience in programming. Wha
 [![Skills](https://skillicons.dev/icons?i=angular,react,nextjs,django,flask,fastapi,expressjs,spring,flutter,tailwindcss,vite,bootstrap&theme=dark)](https://skillicons.dev)
 
 #### 🛠️ Tools & Platforms
-[![Skills](https://skillicons.dev/icons?i=linux,arch,kali,nix,neovim,git,github,githubactions,netlify,docker,figma,pycharm,idea,androidstudio,devto,linkedin&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=linux,arch,kali,nix,neovim,git,github,githubactions,netlify,docker,figma,pycharm,idea,androidstudio,devto,linkedin&theme=dark)](https://skillicons.dev) -->
+
+<!-- START_SKILLS -->
+<!-- END_SKILLS -->
 
 ---
 
