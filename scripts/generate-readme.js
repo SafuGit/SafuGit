@@ -15,9 +15,12 @@ async function fetchSkills() {
 function generateMarkdown(skills) {
   const categories = {};
 
-  skills.forEach(skill => {
+  skills.forEach((skill) => {
     if (!categories[skill.category]) categories[skill.category] = [];
-    const badge = `<img src="${skill.iconUrl}" alt="${skill.name}" width="50" height="50" />`;
+    const badge = `<div style="display: inline-block; text-align: center; margin: 5px;">
+  <img src="${skill.iconUrl}" alt="${skill.name}" width="50" height="50" />
+  <p style="margin: 0; font-size: 12px;">${skill.name}</p>
+</div>`;
     categories[skill.category].push(badge);
   });
 
@@ -32,8 +35,10 @@ function generateMarkdown(skills) {
 
 // Replace README content between markers
 function updateReadme(mdContent) {
-  const readme = fs.existsSync(README_PATH) ? fs.readFileSync(README_PATH, "utf-8") : "";
-  
+  const readme = fs.existsSync(README_PATH)
+    ? fs.readFileSync(README_PATH, "utf-8")
+    : "";
+
   const startMarker = "<!-- START_SKILLS -->";
   const endMarker = "<!-- END_SKILLS -->";
   const regex = new RegExp(`${startMarker}[\\s\\S]*${endMarker}`, "m");

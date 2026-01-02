@@ -3,7 +3,11 @@ name: Update README with Skills
 on:
   schedule:
     - cron: '0 0 * * *' # every day at midnight
-  workflow_dispatch: # allows manual trigger
+  workflow_dispatch: 
+
+  push:
+    branches:
+      - main
 
 jobs:
   update-readme:
