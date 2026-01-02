@@ -17,9 +17,9 @@ function generateMarkdown(skills) {
 
   skills.forEach((skill) => {
     if (!categories[skill.category]) categories[skill.category] = [];
-    const badge = `<div style="display: inline-block; text-align: center; margin: 5px;">
+    const badge = `<div style="display: flex; flex-direction: column; align-items: center; margin: 10px; width: 80px;">
   <img src="${skill.iconUrl}" alt="${skill.name}" width="50" height="50" />
-  <p style="margin: 0; font-size: 12px;">${skill.name}</p>
+  <p style="margin: 5px 0 0 0; font-size: 12px; text-align: center;">${skill.name}</p>
 </div>`;
     categories[skill.category].push(badge);
   });
@@ -27,7 +27,9 @@ function generateMarkdown(skills) {
   let md = `# My Skills\n\n`;
   for (const category of Object.keys(categories)) {
     md += `## ${category}\n`;
-    md += categories[category].join(" ") + "\n\n";
+    md += `<div style="display: flex; flex-wrap: wrap; justify-content: flex-start;">\n`;
+    md += categories[category].join("\n") + "\n";
+    md += `</div>\n\n`;
   }
 
   return md;
