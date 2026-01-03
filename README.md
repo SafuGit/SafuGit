@@ -2,9 +2,9 @@
 
 ![Banner](https://github.com/user-attachments/assets/6382d1a1-d804-41a6-aae1-3185e8f67cfc)
 
-# 👋 Hi, I'm **Safwan Sadid**
+# Hi, I'm **Safwan Sadid**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Web+Developer+🌐;Android+Developer+📱;Software+Developer+💻;Linux+Enthusiast+🐧;Problem+Solver+⚡)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Web+Developer;Android+Developer;Software+Developer;Linux+Enthusiast;Problem+Solver)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,18 +12,18 @@
 
 <div align="center">
 
-## 🚀 About Me
+## About Me
 
 </div>
 
 <details open>
-<summary><b>👨‍💻 Click to explore my journey</b></summary>
+<summary><b>Click to explore my journey</b></summary>
 
 <br>
 
 ```yaml
 name: Safwan Sadid
-location: Bangladesh 🇧🇩
+location: Bangladesh
 role: Web • Android • Software Developer
 experience: 3+ years
 specializations:
@@ -51,9 +51,7 @@ current_status: Open to new opportunities
 
 <div align="center">
 
-## 🧠 Tech Arsenal
-
-*Building with the best tools in the ecosystem*
+## Tech Stack
 
 </div>
 
@@ -366,7 +364,7 @@ current_status: Open to new opportunities
 
 <div align="center">
 
-## 📞 Let's Connect!
+## Let's Connect
 
 *Open to job opportunities, collaboration, freelance opportunities, and tech discussions*
 
@@ -374,7 +372,7 @@ current_status: Open to new opportunities
 <tr>
 <td align="center" width="50%">
 
-### 📧 Email
+### Email
 
 **Primary:**  
 [safwansadid.ah@gmail.com](mailto:safwansadid.ah@gmail.com)
@@ -385,12 +383,12 @@ current_status: Open to new opportunities
 </td>
 <td align="center" width="50%">
 
-### 💼 Available For
+### Available For
 
-**Freelance Projects** ✅  
-**Full-time Roles** ✅  
-**Collaborations** ✅  
-**Consultations** ✅
+**Freelance Projects**  
+**Full-time Roles**  
+**Collaborations**  
+**Consultations**
 
 </td>
 </tr>
@@ -411,9 +409,7 @@ current_status: Open to new opportunities
 
 <div align="center">
 
-## 📊 GitHub Statistics
-
-*Tracking progress and consistency*
+## GitHub Statistics
 
 </div>
 
@@ -456,7 +452,7 @@ current_status: Open to new opportunities
 
 <div align="center">
 
-### ⚡ Quick Stats
+### Quick Stats
 
 ![](https://img.shields.io/badge/Focus-Full%20Stack%20Development-FFD700?style=flat-square&labelColor=1a1a1a)
 ![](https://img.shields.io/badge/Experience-3%2B%20Years-FFD700?style=flat-square&labelColor=1a1a1a)
