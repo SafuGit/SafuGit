@@ -388,50 +388,39 @@ current_status: Open to new opportunities 🔥
 *Open to job opportunities, collaboration, freelance opportunities, and tech discussions*
 
 </div>
-<div align="center">
-  
-  <table width="100%">
-  <tr>
-  <td align="center" width="33%">
-  
-  ### 📧 Email
-  
-  **Primary:**
-  [safwansadid.ah@gmail.com](mailto:safwansadid.ah@gmail.com)
-  
-  **Secondary:**
-  [safwan55.ah@gmail.com](mailto:safwan55.ah@gmail.com)
-  
-  </td>
-  <td align="center" width="34%">
-  
-  ### 💼 Available For
-  
-  **Freelance Projects** ✅
-  **Full-time Roles** ✅
-  **Collaborations** ✅
-  **Consultations** ✅
-  
-  </td>
-  <td align="center" width="33%">
-  
-  ### 🚀 Services Offered
-  
-  **Web Development** 🌐
-  **Android Apps** 📱
-  **Software Solutions** 💻
-  **Tech Consulting** 🎯
-  
-  </td>
-  </tr>
-  </table>
-</div>
+<table width="100%">
+<tr>
+<td align="center" width="50%">
+
+### 📧 Email
+
+**Primary:**  
+[safwansadid.ah@gmail.com](mailto:safwansadid.ah@gmail.com)
+
+**Secondary:**  
+[safwan55.ah@gmail.com](mailto:safwan55.ah@gmail.com)
+
+</td>
+<td align="center" width="50%">
+
+### 💼 Available For
+
+**Freelance Projects** ✅  
+**Full-time Roles** ✅  
+**Collaborations** ✅  
+**Consultations** ✅
+
+</td>
+</tr>
+</table>
 
 <br>
+
 <div align="center">
-  
-  [![Email Me](https://img.shields.io/badge/Email%20Me-FFD700?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a)](mailto:safwansadid.ah@gmail.com) [![View GitHub](https://img.shields.io/badge/View%20GitHub-FFD700?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a)](https://github.com/SafuGit)
-</div>
+
+[![Email Me](https://img.shields.io/badge/Email%20Me-FFD700?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a)](mailto:safwansadid.ah@gmail.com)
+[![Schedule Meeting](https://img.shields.io/badge/Schedule%20Meeting-FFD700?style=for-the-badge&logo=google-calendar&logoColor=white&labelColor=1a1a1a)](#)
+[![View GitHub](https://img.shields.io/badge/View%20GitHub-FFD700?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a)](https://github.com/SafuGit)
 
 </div>
 
