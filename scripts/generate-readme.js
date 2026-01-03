@@ -14,39 +14,37 @@ async function fetchSkills() {
 function generateMarkdown(skills) {
   const categories = {};
 
+  // Group skills by category
   skills.forEach((skill) => {
     if (!categories[skill.category]) categories[skill.category] = [];
-    const badge = `<td align="center" width="80">
-  <img src="${skill.iconUrl}" alt="${skill.name}" width="50" height="50" />
-  <br />
-  <sub>${skill.name}</sub>
-</td>`;
-    categories[skill.category].push(badge);
+    categories[skill.category].push(skill);
   });
 
-  let md = `<details open>\n<summary><strong style="color: #FFD700;">📦 toolchain.log</strong></summary>\n\n<br>\n\n`;
-  
-  md += `\`\`\`bash\n`;
-  md += `$ cat /usr/local/dependencies/installed.list\n`;
-  md += `================================================================================\n`;
-  md += `[INFO] Scanning installed packages...\n`;
-  md += `================================================================================\n`;
-  md += `\`\`\`\n\n`;
+  let md = ``;
 
+  // Generate a details block for each category
   for (const category of Object.keys(categories)) {
-    md += `### \`${category.toLowerCase().replace(/\s+/g, '-')}/\`\n\n`;
-    md += `<table><tr>\n`;
-    md += categories[category].join("\n") + "\n";
-    md += `</tr></table>\n\n`;
+    const categoryLower = category.toLowerCase().replace(/\s+/g, '-');
+    md += `<details>\n`;
+    md += `<summary><strong>$ ls ${categoryLower}/</strong></summary>\n\n`;
+    md += `\`\`\`txt\n`;
+    
+    // Format skills in rows (approximately 3-4 per line for readability)
+    const skillNames = categories[category].map(s => s.name);
+    let line = '';
+    skillNames.forEach((name, index) => {
+      line += name.padEnd(20, ' ');
+      if ((index + 1) % 3 === 0 || index === skillNames.length - 1) {
+        md += line.trimEnd() + '\n';
+        line = '';
+      }
+    });
+    
+    md += `\`\`\`\n\n`;
+    md += `</details>\n\n`;
   }
 
-  md += `\`\`\`bash\n`;
-  md += `[SUCCESS] All dependencies loaded and verified\n`;
-  md += `================================================================================\n`;
-  md += `\`\`\`\n\n`;
-  md += `</details>`;
-
-  return md;
+  return md.trim();
 }
 
 // Replace README content between markers
