@@ -261,6 +261,8 @@ $ sudo systemctl status github-activity
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=FFD700&animation=twinkling" width="100%"/>
 
+<br />
+
 <div align="center">
 
 [![Email Me](https://img.shields.io/badge/Email%20Me-FFD700?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a)](mailto:safwansadid.ah@gmail.com)
