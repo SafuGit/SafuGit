@@ -262,6 +262,7 @@ $ sudo systemctl status github-activity
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=FFD700&animation=twinkling" width="100%"/>
 
 <br />
+<br />
 
 <div align="center">
 
