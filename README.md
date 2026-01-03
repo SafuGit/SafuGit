@@ -30,7 +30,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FFD700&height=50&section=header&text=$%20cat%20About%20Me&fontColor=1a1a1a&fontSize=24&fontAlignY=50&desc=%20&descAlignY=50" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFD700&height=50&section=header&text=About%20Me&fontColor=1a1a1a&fontSize=24&fontAlignY=50&desc=%20&descAlignY=50" />
 
 <details open>
 <summary><strong style="color: #FFD700;">📁 profile.sys</strong></summary>
@@ -86,7 +86,7 @@ UPTIME: 3+ years in production
 
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FFD700&height=50&section=header&text=$%20ls%20Tech%20Stack%20%26%20Skills&fontColor=1a1a1a&fontSize=24&fontAlignY=50&desc=%20&descAlignY=50" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFD700&height=50&section=header&text=Tech%20Stack%20%26%20Skills&fontColor=1a1a1a&fontSize=24&fontAlignY=50&desc=%20&descAlignY=50" />
 
 <!-- START_SKILLS -->
 <details>
@@ -164,7 +164,7 @@ EPS                 Payment Gateway     JWT Authentication
 
 </details><!-- END_SKILLS -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FFD700&height=50&section=header&text=$%20echo%20Let's%20Connect&fontColor=1a1a1a&fontSize=24&fontAlignY=50&desc=%20&descAlignY=50" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFD700&height=50&section=header&text=Let's%20Connect&fontColor=1a1a1a&fontSize=24&fontAlignY=50&desc=%20&descAlignY=50" />
 
 <details open>
 <summary><strong style="color: #FFD700;">📁 connection_endpoints.log</strong></summary>
@@ -206,7 +206,7 @@ $ netstat -contact | grep ESTABLISHED
 
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FFD700&height=50&section=header&text=$%20./stats%20GitHub%20Statistics&fontColor=1a1a1a&fontSize=24&fontAlignY=50&desc=%20&descAlignY=50" />
+## `$ ./stats` GitHub Statistics
 
 <details>
 <summary><strong style="color: #FFD700;">📁 performance_metrics.sys</strong></summary>
