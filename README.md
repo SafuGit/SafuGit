@@ -77,20 +77,9 @@ current_status: Open to new opportunities 🔥
 ## Frontend
 <table><tr>
 <td align="center" width="80">
-  <img src="https://images.seeklogo.com/logo-png/55/1/daisyui-logo-png_seeklogo-554509.png
-" alt="Daisy UI" width="50" height="50" />
+  <img src="https://cdn.simpleicons.org/nextdotjs" alt="Next.js" width="50" height="50" />
   <br />
-  <sub>Daisy UI</sub>
-</td>
-<td align="center" width="80">
-  <img src="https://cdn.brandfetch.io/idDJv1mfrb/w/1080/h/1080/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1753779057992" alt="Framer Motion" width="50" height="50" />
-  <br />
-  <sub>Framer Motion</sub>
-</td>
-<td align="center" width="80">
-  <img src="https://toppng.com/uploads/preview/angular-logo-11609355165bd2msuomqq.png" alt="Angular" width="50" height="50" />
-  <br />
-  <sub>Angular</sub>
+  <sub>Next.js</sub>
 </td>
 <td align="center" width="80">
   <img src="https://cdn.simpleicons.org/react" alt="React" width="50" height="50" />
@@ -98,9 +87,9 @@ current_status: Open to new opportunities 🔥
   <sub>React</sub>
 </td>
 <td align="center" width="80">
-  <img src="https://cdn.simpleicons.org/nextdotjs" alt="Next.js" width="50" height="50" />
+  <img src="https://toppng.com/uploads/preview/angular-logo-11609355165bd2msuomqq.png" alt="Angular" width="50" height="50" />
   <br />
-  <sub>Next.js</sub>
+  <sub>Angular</sub>
 </td>
 <td align="center" width="80">
   <img src="https://cdn.simpleicons.org/flutter" alt="Flutter" width="50" height="50" />
@@ -116,6 +105,16 @@ current_status: Open to new opportunities 🔥
   <img src="https://cdn.simpleicons.org/bootstrap" alt="Bootstrap" width="50" height="50" />
   <br />
   <sub>Bootstrap</sub>
+</td>
+<td align="center" width="80">
+  <img src="https://images.seeklogo.com/logo-png/55/1/daisyui-logo-png_seeklogo-554509.png" alt="Daisy UI" width="50" height="50" />
+  <br />
+  <sub>Daisy UI</sub>
+</td>
+<td align="center" width="80">
+  <img src="https://cdn.brandfetch.io/idDJv1mfrb/w/1080/h/1080/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1753779057992" alt="Framer Motion" width="50" height="50" />
+  <br />
+  <sub>Framer Motion</sub>
 </td>
 </tr></table>
 
@@ -151,9 +150,34 @@ current_status: Open to new opportunities 🔥
 ## Languages
 <table><tr>
 <td align="center" width="80">
+  <img src="https://cdn.simpleicons.org/typescript" alt="TypeScript" width="50" height="50" />
+  <br />
+  <sub>TypeScript</sub>
+</td>
+<td align="center" width="80">
+  <img src="https://cdn.simpleicons.org/javascript" alt="JavaScript" width="50" height="50" />
+  <br />
+  <sub>JavaScript</sub>
+</td>
+<td align="center" width="80">
+  <img src="https://cdn.simpleicons.org/python" alt="Python" width="50" height="50" />
+  <br />
+  <sub>Python</sub>
+</td>
+<td align="center" width="80">
+  <img src="https://cdn.simpleicons.org/dart" alt="Dart" width="50" height="50" />
+  <br />
+  <sub>Dart</sub>
+</td>
+<td align="center" width="80">
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" alt="Java" width="50" height="50" />
   <br />
   <sub>Java</sub>
+</td>
+<td align="center" width="80">
+  <img src="https://cdn.simpleicons.org/html5" alt="HTML5" width="50" height="50" />
+  <br />
+  <sub>HTML5</sub>
 </td>
 <td align="center" width="80">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/2048px-CSS3_logo.svg.png" alt="CSS3" width="50" height="50" />
@@ -165,54 +189,48 @@ current_status: Open to new opportunities 🔥
   <br />
   <sub>SQL</sub>
 </td>
+</tr></table>
+
+## Databases
+<table><tr>
 <td align="center" width="80">
-  <img src="https://cdn.simpleicons.org/python" alt="Python" width="50" height="50" />
+  <img src="https://cdn.simpleicons.org/postgresql" alt="PostgreSQL" width="50" height="50" />
   <br />
-  <sub>Python</sub>
+  <sub>PostgreSQL</sub>
 </td>
 <td align="center" width="80">
-  <img src="https://cdn.simpleicons.org/typescript" alt="TypeScript" width="50" height="50" />
+  <img src="https://cdn.simpleicons.org/mysql" alt="MySQL" width="50" height="50" />
   <br />
-  <sub>TypeScript</sub>
+  <sub>MySQL</sub>
 </td>
 <td align="center" width="80">
-  <img src="https://cdn.simpleicons.org/javascript" alt="JavaScript" width="50" height="50" />
+  <img src="https://cdn.simpleicons.org/mongodb" alt="MongoDB" width="50" height="50" />
   <br />
-  <sub>JavaScript</sub>
+  <sub>MongoDB</sub>
 </td>
 <td align="center" width="80">
-  <img src="https://cdn.simpleicons.org/dart" alt="Dart" width="50" height="50" />
+  <img src="https://cdn.simpleicons.org/firebase" alt="Firebase" width="50" height="50" />
   <br />
-  <sub>Dart</sub>
+  <sub>Firebase</sub>
 </td>
 <td align="center" width="80">
-  <img src="https://cdn.simpleicons.org/html5" alt="HTML5" width="50" height="50" />
+  <img src="https://cdn.simpleicons.org/supabase" alt="Supabase" width="50" height="50" />
   <br />
-  <sub>HTML5</sub>
+  <sub>Supabase</sub>
+</td>
+<td align="center" width="80">
+  <img src="https://cdn.simpleicons.org/prisma" alt="Prisma" width="50" height="50" />
+  <br />
+  <sub>Prisma</sub>
 </td>
 </tr></table>
 
 ## Tools
 <table><tr>
 <td align="center" width="80">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="VS Code" width="50" height="50" />
+  <img src="https://cdn.simpleicons.org/docker" alt="Docker" width="50" height="50" />
   <br />
-  <sub>VS Code</sub>
-</td>
-<td align="center" width="80">
-  <img src="https://vectorseek.com/wp-content/uploads/2025/07/canva-ai-Logo-PNG-SVG-Vector-01.png" alt="Canva" width="50" height="50" />
-  <br />
-  <sub>Canva</sub>
-</td>
-<td align="center" width="80">
-  <img src="https://static.vecteezy.com/system/resources/previews/067/065/640/non_2x/capcut-logo-square-rounded-capcut-logo-capcut-logo-free-download-free-png.png" alt="CapCut" width="50" height="50" />
-  <br />
-  <sub>CapCut</sub>
-</td>
-<td align="center" width="80">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Microsoft_Office_logo_%282013%E2%80%932019%29.svg/1012px-Microsoft_Office_logo_%282013%E2%80%932019%29.svg.png" alt="MS Office Suite" width="50" height="50" />
-  <br />
-  <sub>MS Office Suite</sub>
+  <sub>Docker</sub>
 </td>
 <td align="center" width="80">
   <img src="https://cdn.simpleicons.org/git" alt="Git" width="50" height="50" />
@@ -225,9 +243,9 @@ current_status: Open to new opportunities 🔥
   <sub>Postman</sub>
 </td>
 <td align="center" width="80">
-  <img src="https://cdn.simpleicons.org/docker" alt="Docker" width="50" height="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="VS Code" width="50" height="50" />
   <br />
-  <sub>Docker</sub>
+  <sub>VS Code</sub>
 </td>
 <td align="center" width="80">
   <img src="https://cdn.simpleicons.org/figma" alt="Figma" width="50" height="50" />
@@ -235,14 +253,29 @@ current_status: Open to new opportunities 🔥
   <sub>Figma</sub>
 </td>
 <td align="center" width="80">
-  <img src="https://cdn.simpleicons.org/netlify" alt="Netlify" width="50" height="50" />
+  <img src="https://vectorseek.com/wp-content/uploads/2025/07/canva-ai-Logo-PNG-SVG-Vector-01.png" alt="Canva" width="50" height="50" />
   <br />
-  <sub>Netlify</sub>
+  <sub>Canva</sub>
 </td>
 <td align="center" width="80">
   <img src="https://cdn.simpleicons.org/vite" alt="Vite" width="50" height="50" />
   <br />
   <sub>Vite</sub>
+</td>
+<td align="center" width="80">
+  <img src="https://cdn.simpleicons.org/netlify" alt="Netlify" width="50" height="50" />
+  <br />
+  <sub>Netlify</sub>
+</td>
+<td align="center" width="80">
+  <img src="https://static.vecteezy.com/system/resources/previews/067/065/640/non_2x/capcut-logo-square-rounded-capcut-logo-capcut-logo-free-download-free-png.png" alt="CapCut" width="50" height="50" />
+  <br />
+  <sub>CapCut</sub>
+</td>
+<td align="center" width="80">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Microsoft_Office_logo_%282013%E2%80%932019%29.svg/1012px-Microsoft_Office_logo_%282013%E2%80%932019%29.svg.png" alt="MS Office Suite" width="50" height="50" />
+  <br />
+  <sub>MS Office Suite</sub>
 </td>
 <td align="center" width="80">
   <img src="https://cdn.simpleicons.org/google" alt="Google Workspace" width="50" height="50" />
@@ -254,9 +287,29 @@ current_status: Open to new opportunities 🔥
 ## AI Tools
 <table><tr>
 <td align="center" width="80">
+  <img src="https://cdn.simpleicons.org/n8n" alt="n8n" width="50" height="50" />
+  <br />
+  <sub>n8n</sub>
+</td>
+<td align="center" width="80">
   <img src="https://avatars.githubusercontent.com/u/128289781?v=4" alt="Flowise" width="50" height="50" />
   <br />
   <sub>Flowise</sub>
+</td>
+<td align="center" width="80">
+  <img src="https://pnghdpro.com/wp-content/themes/pnghdpro/download/social-media-and-brands/gemini-app-icon.png" alt="Gemini" width="50" height="50" />
+  <br />
+  <sub>Gemini</sub>
+</td>
+<td align="center" width="80">
+  <img src="https://cdn.brandfetch.io/idR3duQxYl/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1749527355219" alt="OpenAI" width="50" height="50" />
+  <br />
+  <sub>OpenAI</sub>
+</td>
+<td align="center" width="80">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Google_%22G%22_logo.svg" alt="Google Stitch" width="50" height="50" />
+  <br />
+  <sub>Google Stitch</sub>
 </td>
 <td align="center" width="80">
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-copilot-icon.png" alt="GitHub Copilot" width="50" height="50" />
@@ -273,30 +326,15 @@ current_status: Open to new opportunities 🔥
   <br />
   <sub>Claude</sub>
 </td>
-<td align="center" width="80">
-  <img src="https://pnghdpro.com/wp-content/themes/pnghdpro/download/social-media-and-brands/gemini-app-icon.png" alt="Gemini" width="50" height="50" />
-  <br />
-  <sub>Gemini</sub>
-</td>
-<td align="center" width="80">
-  <img src="https://cdn.brandfetch.io/idR3duQxYl/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1749527355219" alt="OpenAI" width="50" height="50" />
-  <br />
-  <sub>OpenAI</sub>
-</td>
-<td align="center" width="80">
-  <img src="https://cdn.simpleicons.org/n8n" alt="n8n" width="50" height="50" />
-  <br />
-  <sub>n8n</sub>
-</td>
-<td align="center" width="80">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Google_%22G%22_logo.svg" alt="Google Stitch" width="50" height="50" />
-  <br />
-  <sub>Google Stitch</sub>
-</td>
 </tr></table>
 
 ## Services
 <table><tr>
+<td align="center" width="80">
+  <img src="https://cdn.simpleicons.org/stripe" alt="Stripe" width="50" height="50" />
+  <br />
+  <sub>Stripe</sub>
+</td>
 <td align="center" width="80">
   <img src="https://play-lh.googleusercontent.com/OpdgJSX_O1buqjnPOcTmGWmsA7zOiQD9a5L9gsk9DgWz1yQWR2IgnIuSpvXjYw1LzA=w240-h480-rw" alt="SSLCOMMERZ" width="50" height="50" />
   <br />
@@ -313,11 +351,6 @@ current_status: Open to new opportunities 🔥
   <sub>EPS</sub>
 </td>
 <td align="center" width="80">
-  <img src="https://cdn.simpleicons.org/stripe" alt="Stripe" width="50" height="50" />
-  <br />
-  <sub>Stripe</sub>
-</td>
-<td align="center" width="80">
   <img src="https://cdn-icons-png.flaticon.com/512/657/657076.png" alt="Payment Gateway" width="50" height="50" />
   <br />
   <sub>Payment Gateway</sub>
@@ -326,40 +359,6 @@ current_status: Open to new opportunities 🔥
   <img src="https://cdn.simpleicons.org/jsonwebtokens" alt="JWT Authentication" width="50" height="50" />
   <br />
   <sub>JWT Authentication</sub>
-</td>
-</tr></table>
-
-## Databases
-<table><tr>
-<td align="center" width="80">
-  <img src="https://cdn.simpleicons.org/mongodb" alt="MongoDB" width="50" height="50" />
-  <br />
-  <sub>MongoDB</sub>
-</td>
-<td align="center" width="80">
-  <img src="https://cdn.simpleicons.org/mysql" alt="MySQL" width="50" height="50" />
-  <br />
-  <sub>MySQL</sub>
-</td>
-<td align="center" width="80">
-  <img src="https://cdn.simpleicons.org/postgresql" alt="PostgreSQL" width="50" height="50" />
-  <br />
-  <sub>PostgreSQL</sub>
-</td>
-<td align="center" width="80">
-  <img src="https://cdn.simpleicons.org/firebase" alt="Firebase" width="50" height="50" />
-  <br />
-  <sub>Firebase</sub>
-</td>
-<td align="center" width="80">
-  <img src="https://cdn.simpleicons.org/supabase" alt="Supabase" width="50" height="50" />
-  <br />
-  <sub>Supabase</sub>
-</td>
-<td align="center" width="80">
-  <img src="https://cdn.simpleicons.org/prisma" alt="Prisma" width="50" height="50" />
-  <br />
-  <sub>Prisma</sub>
 </td>
 </tr></table>
 
