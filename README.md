@@ -44,6 +44,8 @@ USER: Safwan Sadid
 LOCATION: Bangladesh
 ROLE: Full Stack • Android • Software Developer
 UPTIME: 3+ years in production
+EMAIL: safwansadid.ah@gmail.com
+PHONE: +8801981575920
 ================================================================================
 
 [SPECIALIZATIONS]
