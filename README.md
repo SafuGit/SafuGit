@@ -63,8 +63,7 @@ I’m a self-motivated developer with 3+ years of experience in programming. Wha
   <sub>Bootstrap</sub>
 </td>
 <td align="center" width="80">
-  <img src="https://images.seeklogo.com/logo-png/55/1/daisyui-logo-png_seeklogo-554509.png
-" alt="Daisy UI" width="50" height="50" />
+  <img src="https://images.seeklogo.com/logo-png/55/1/daisyui-logo-png_seeklogo-554509.png" alt="Daisy UI" width="50" height="50" />
   <br />
   <sub>Daisy UI</sub>
 </td>
