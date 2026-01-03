@@ -6,8 +6,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Web+Developer+🌐;Android+Developer+📱;Software+Developer+💻;Linux+Enthusiast+🐧;Problem+Solver+⚡)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=SafuGit&label=Profile%20Views&color=FFD700&style=for-the-badge" alt="Profile Views" />
-
 </div>
 
 ---
@@ -376,6 +374,7 @@ current_status: Open to new opportunities 🔥
 
 [![GitHub](https://img.shields.io/badge/GitHub-SafuGit-FFD700?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a)](https://github.com/SafuGit)
 [![Portfolio](https://img.shields.io/badge/portfolio-safu-FFD700?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=1a1a1a)](https://safu-portfolio.netlify.app)
+
 💬 **Ask me about:** Web Development, Android Development, Software Engineering, Linux, DevOps.
 
 </div>
