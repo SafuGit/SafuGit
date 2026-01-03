@@ -1,78 +1,108 @@
 <div align="center">
 
-![Banner](https://github.com/user-attachments/assets/6382d1a1-d804-41a6-aae1-3185e8f67cfc)
-
-# Hi, I'm **Safwan Sadid**
-
-> *"And say: My Lord, increase me in knowledge." — Qur'an 20:114*
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Web+Developer;Android+Developer;Software+Developer;Linux+Enthusiast;Problem+Solver)](https://git.io/typing-svg)
+<!-- ![Banner](https://github.com/user-attachments/assets/6382d1a1-d804-41a6-aae1-3185e8f67cfc) -->
 
 </div>
 
----
-
-<div align="center">
-
-## About Me
-
-</div>
-
-<details open>
-<summary><b>Click to explore my journey</b></summary>
-
-<br>
-
-```yaml
-name: Safwan Sadid
-location: Bangladesh
-role: Web • Android • Software Developer
-experience: 3+ years
-specializations:
-  - Full Stack Web Development
-  - Android App Development (Flutter, Native)
-  - Desktop Software (Java, Python)
-  - Linux System Administration
-passion:
-  - Building innovative solutions
-  - Exploring cutting-edge technologies
-  - Leading collaborative teams
-  - Solving real-world problems
-current_status: Open to new opportunities
+```console
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│   ███████╗ █████╗ ███████╗██╗    ██╗ █████╗ ███╗   ██╗        │
+│   ██╔════╝██╔══██╗██╔════╝██║    ██║██╔══██╗████╗  ██║        │
+│   ███████╗███████║█████╗  ██║ █╗ ██║███████║██╔██╗ ██║        │
+│   ╚════██║██╔══██║██╔══╝  ██║███╗██║██╔══██║██║╚██╗██║        │
+│   ███████║██║  ██║██║     ╚███╔███╔╝██║  ██║██║ ╚████║        │
+│   ╚══════╝╚═╝  ╚═╝╚═╝      ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝  ╚═══╝        │
+│                                                              │
+│   > Full Stack • Android • Software Engineer                  │
+│   > "And say: My Lord, increase me in knowledge."             │
+│     — Qur'an 20:114                                           │
+│                                                              │
+│   Email : safwansadid.ah@gmail.com                            │
+│   Phone : +8801981575920                                      │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
 ```
 
 <div align="center">
 
-**Self-motivated developer** passionate about turning ideas into reality. From hobby to profession, I've led teams, shipped full-stack projects across web, mobile, and desktop platforms, and continuously push the boundaries of what's possible with code.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1200&color=FFD700&center=true&vCenter=true&width=650&lines=Software+Engineer;Builds+Full-Stack+Systems;Web+%E2%80%A2+Mobile+%E2%80%A2+Backend)](https://git.io/typing-svg)
 
 </div>
+
+## `>_ whoami`
+
+<details open>
+<summary><strong style="color: #FFD700;">📁 profile.sys</strong></summary>
+
+<br>
+
+```yaml
+$ cat /home/safwan/.profile
+================================================================================
+USER: Safwan Sadid
+LOCATION: Bangladesh
+ROLE: Full Stack • Android • Software Developer
+UPTIME: 3+ years in production
+================================================================================
+
+[SPECIALIZATIONS]
+  ✓ Full Stack Web Development
+  ✓ Android App Development (Flutter, Native)
+  ✓ Desktop Software (Java, Python)
+  ✓ Linux System Administration
+
+[CORE_VALUES]
+  ✓ Building innovative solutions
+  ✓ Exploring cutting-edge technologies
+  ✓ Leading collaborative teams
+  ✓ Solving real-world problems
+
+[STATUS] ● OPERATIONAL - Open to new opportunities
+================================================================================
+```
+
+**Self-motivated developer** passionate about turning ideas into reality. From hobby to profession, I've led teams, shipped full-stack projects across web, mobile, and desktop platforms, and continuously push the boundaries of what's possible with code.
 
 </details>
 
----
+<details>
+<summary><strong style="color: #FFD700;">📁 system.boot</strong></summary>
 
-<div align="center">
+<br>
 
-## Tech Stack
+```txt
+[INIT] loading profile: safwan_sadid
+[OK] frontend modules ............................ READY
+[OK] backend services ............................ RUNNING
+[OK] android runtime ............................. ACTIVE
+[OK] database connections ........................ ESTABLISHED
+[OK] authentication layer (JWT) .................. SECURED
+[OK] payment gateways ............................ INTEGRATED
+[OK] AI/ML pipelines ............................. OPERATIONAL
+[INFO] system status: ALL SERVICES NOMINAL
+================================================================================
+```
 
-</div>
+</details>
 
-<!-- #### 🗃️ Databases
-[![Skills](https://skillicons.dev/icons?i=firebase,mongodb,mysql,postgresql,supabase&theme=dark)](https://skillicons.dev)
-
-#### 🧑‍💻 Languages
-[![Skills](https://skillicons.dev/icons?i=python,typescript,javascript,java,dart,html,css,markdown,nodejs&theme=dark)](https://skillicons.dev)
-
-#### ⚙️ Frameworks & Libraries
-[![Skills](https://skillicons.dev/icons?i=angular,react,nextjs,django,flask,fastapi,expressjs,spring,flutter,tailwindcss,vite,bootstrap&theme=dark)](https://skillicons.dev)
-
-#### 🛠️ Tools & Platforms
-[![Skills](https://skillicons.dev/icons?i=linux,arch,kali,nix,neovim,git,github,githubactions,netlify,docker,figma,pycharm,idea,androidstudio,devto,linkedin&theme=dark)](https://skillicons.dev) -->
+## `>_ ls -la /dependencies/`
 
 <!-- START_SKILLS -->
-# My Skills
+<details open>
+<summary><strong style="color: #FFD700;">📦 toolchain.log</strong></summary>
 
-## Frontend
+<br>
+
+```bash
+$ cat /usr/local/dependencies/installed.list
+================================================================================
+[INFO] Scanning installed packages...
+================================================================================
+```
+
+### `frontend/`
+
 <table><tr>
 <td align="center" width="80">
   <img src="https://cdn.simpleicons.org/nextdotjs" alt="Next.js" width="50" height="50" />
@@ -116,7 +146,8 @@ current_status: Open to new opportunities
 </td>
 </tr></table>
 
-## Backend
+### `backend/`
+
 <table><tr>
 <td align="center" width="80">
   <img src="https://logowik.com/content/uploads/images/express-js1720895488.logowik.com.webp" alt="Express.js" width="50" height="50" />
@@ -145,7 +176,8 @@ current_status: Open to new opportunities
 </td>
 </tr></table>
 
-## Languages
+### `languages/`
+
 <table><tr>
 <td align="center" width="80">
   <img src="https://cdn.simpleicons.org/typescript" alt="TypeScript" width="50" height="50" />
@@ -189,7 +221,8 @@ current_status: Open to new opportunities
 </td>
 </tr></table>
 
-## Databases
+### `databases/`
+
 <table><tr>
 <td align="center" width="80">
   <img src="https://cdn.simpleicons.org/postgresql" alt="PostgreSQL" width="50" height="50" />
@@ -223,7 +256,8 @@ current_status: Open to new opportunities
 </td>
 </tr></table>
 
-## Tools
+### `tools/`
+
 <table><tr>
 <td align="center" width="80">
   <img src="https://cdn.simpleicons.org/docker" alt="Docker" width="50" height="50" />
@@ -282,7 +316,8 @@ current_status: Open to new opportunities
 </td>
 </tr></table>
 
-## AI Tools
+### `ai-tools/`
+
 <table><tr>
 <td align="center" width="80">
   <img src="https://cdn.simpleicons.org/n8n" alt="n8n" width="50" height="50" />
@@ -326,7 +361,8 @@ current_status: Open to new opportunities
 </td>
 </tr></table>
 
-## Services
+### `services/`
+
 <table><tr>
 <td align="center" width="80">
   <img src="https://cdn.simpleicons.org/stripe" alt="Stripe" width="50" height="50" />
@@ -360,43 +396,43 @@ current_status: Open to new opportunities
 </td>
 </tr></table>
 
-<!-- END_SKILLS -->
+```bash
+[SUCCESS] All dependencies loaded and verified
+================================================================================
+```
 
----
+</details><!-- END_SKILLS -->
 
-<div align="center">
+## `>_ cat /var/log/contact.cfg`
 
-## Let's Connect
-
-*Open to job opportunities, collaboration, freelance opportunities, and tech discussions*
-
-<table align="center" width="100%">
-<tr>
-<td align="center" width="50%">
-
-### Email
-
-**Primary:**  
-[safwansadid.ah@gmail.com](mailto:safwansadid.ah@gmail.com)
-
-**Secondary:**  
-[safwan55.ah@gmail.com](mailto:safwan55.ah@gmail.com)
-
-</td>
-<td align="center" width="50%">
-
-### Available For
-
-**Freelance Projects**  
-**Full-time Roles**  
-**Collaborations**  
-**Consultations**
-
-</td>
-</tr>
-</table>
+<details open>
+<summary><strong style="color: #FFD700;">📁 connection_endpoints.log</strong></summary>
 
 <br>
+
+```bash
+$ netstat -contact | grep ESTABLISHED
+================================================================================
+[CONTACT] Available communication channels:
+================================================================================
+
+[PRIMARY_EMAIL]
+  ├─ safwansadid.ah@gmail.com
+  └─ Status: ACTIVE
+
+[SECONDARY_EMAIL]
+  ├─ safwan55.ah@gmail.com
+  └─ Status: ACTIVE
+
+[SERVICES_AVAILABLE]
+  ├─ Freelance Projects ................ [ACCEPTING]
+  ├─ Full-time Roles ................... [OPEN]
+  ├─ Collaborations .................... [READY]
+  └─ Consultations ..................... [AVAILABLE]
+
+[CONNECTION_STATUS] ● ALL CHANNELS ONLINE
+================================================================================
+```
 
 <div align="center">
 
@@ -407,13 +443,21 @@ current_status: Open to new opportunities
 
 </div>
 
----
+</details>
 
-<div align="center">
+## `>_ ./stats.sh --github`
 
-## GitHub Statistics
+<details>
+<summary><strong style="color: #FFD700;">📁 performance_metrics.sys</strong></summary>
 
-</div>
+<br>
+
+```console
+$ sudo systemctl status github-activity
+================================================================================
+[METRICS] Fetching real-time statistics...
+================================================================================
+```
 
 <div align="center">
 
@@ -452,9 +496,17 @@ current_status: Open to new opportunities
 
 <br>
 
-<div align="center">
+```bash
+[SUMMARY] Quick System Stats
+================================================================================
+● Focus: Full Stack Development
+● Runtime: 3+ Years in Production
+● Languages: 8+ Actively Maintained
+● Status: Available for Hire
+================================================================================
+```
 
-### Quick Stats
+<div align="center">
 
 ![](https://img.shields.io/badge/Focus-Full%20Stack%20Development-FFD700?style=flat-square&labelColor=1a1a1a)
 ![](https://img.shields.io/badge/Experience-3%2B%20Years-FFD700?style=flat-square&labelColor=1a1a1a)
@@ -463,14 +515,17 @@ current_status: Open to new opportunities
 
 </div>
 
-<br>
+</details>
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=FFD700&animation=twinkling" width="100%"/>
 
-**"Code is like humor. When you have to explain it, it's bad." – Cory House**
+```console
+$ echo "Code is like humor. When you have to explain it, it's bad." – Cory House
+$ exit
+```
 
-[![Back to Top](https://img.shields.io/badge/Back%20to%20Top%20↑-FFD700?style=for-the-badge&labelColor=1a1a1a)](#)
+[![Back to Top](https://img.shields.io/badge/⬆%20Back%20to%20Top-FFD700?style=for-the-badge&labelColor=1a1a1a)](#)
 
 </div>

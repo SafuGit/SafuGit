@@ -11,7 +11,6 @@ async function fetchSkills() {
   return await res.json();
 }
 
-// Generate Markdown grouped by category
 function generateMarkdown(skills) {
   const categories = {};
 
@@ -25,13 +24,27 @@ function generateMarkdown(skills) {
     categories[skill.category].push(badge);
   });
 
-  let md = `# My Skills\n\n`;
+  let md = `<details open>\n<summary><strong style="color: #FFD700;">📦 toolchain.log</strong></summary>\n\n<br>\n\n`;
+  
+  md += `\`\`\`bash\n`;
+  md += `$ cat /usr/local/dependencies/installed.list\n`;
+  md += `================================================================================\n`;
+  md += `[INFO] Scanning installed packages...\n`;
+  md += `================================================================================\n`;
+  md += `\`\`\`\n\n`;
+
   for (const category of Object.keys(categories)) {
-    md += `## ${category}\n`;
+    md += `### \`${category.toLowerCase().replace(/\s+/g, '-')}/\`\n\n`;
     md += `<table><tr>\n`;
     md += categories[category].join("\n") + "\n";
     md += `</tr></table>\n\n`;
   }
+
+  md += `\`\`\`bash\n`;
+  md += `[SUCCESS] All dependencies loaded and verified\n`;
+  md += `================================================================================\n`;
+  md += `\`\`\`\n\n`;
+  md += `</details>`;
 
   return md;
 }
