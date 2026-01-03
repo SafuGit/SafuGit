@@ -1,19 +1,63 @@
+<div align="center">
+
 ![Banner](https://github.com/user-attachments/assets/6382d1a1-d804-41a6-aae1-3185e8f67cfc)
 
-<h1 align="center"><b>Safwan Sadid</b></h1>
-<p align="center">
-  <i>Full Stack Developer & Linux Enthusiast from Bangladesh</i>
-</p>
+# 👋 Hi, I'm **Safwan Sadid**
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Web+Developer+🌐;Android+Developer+📱;Software+Developer+💻;Linux+Enthusiast+🐧;Problem+Solver+⚡)](https://git.io/typing-svg)
+
+<img src="https://komarev.com/ghpvc/?username=SafuGit&label=Profile%20Views&color=FFD700&style=for-the-badge" alt="Profile Views" />
+
+</div>
 
 ---
 
-### 🚀 About Me
+<div align="center">
 
-I’m a self-motivated developer with 3+ years of experience in programming. What started as a hobby turned into a passion for building and solving real-world problems. I've worked on numerous full-stack projects, led small teams, and continuously explore new technologies. I’m currently looking for opportunities where I can contribute, grow, and help build meaningful products.
+## 🚀 About Me
+
+</div>
+
+<details open>
+<summary><b>👨‍💻 Click to explore my journey</b></summary>
+
+<br>
+
+```yaml
+name: Safwan Sadid
+location: Bangladesh 🇧🇩
+role: Web • Android • Software Developer
+experience: 3+ years
+specializations:
+  - Full Stack Web Development (MERN, MEAN, Spring Boot)
+  - Android App Development (Flutter, Native)
+  - Desktop Software (Java, Python)
+  - Linux System Administration
+passion:
+  - Building innovative solutions
+  - Exploring cutting-edge technologies
+  - Leading collaborative teams
+  - Solving real-world problems
+current_status: Open to new opportunities 🔥
+```
+
+<div align="center">
+
+**Self-motivated developer** passionate about turning ideas into reality. From hobby to profession, I've led teams, shipped full-stack projects across web, mobile, and desktop platforms, and continuously push the boundaries of what's possible with code.
+
+</div>
+
+</details>
 
 ---
 
-### 🧠 What I Work With
+<div align="center">
+
+## 🧠 Tech Arsenal
+
+*Building with the best tools in the ecosystem*
+
+</div>
 
 <!-- #### 🗃️ Databases
 [![Skills](https://skillicons.dev/icons?i=firebase,mongodb,mysql,postgresql,supabase&theme=dark)](https://skillicons.dev)
@@ -323,47 +367,142 @@ I’m a self-motivated developer with 3+ years of experience in programming. Wha
 
 ---
 
-### 🌐 Online Presence
+<div align="center">
 
-- 👨‍💻 All of my projects are available on [GitHub](https://github.com/SafuGit)
-- 💬 Ask me anything about **Linux**, DevOps, or Full Stack Development
+## 🌐 Online Presence
+
+</div>
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-SafuGit-FFD700?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a)](https://github.com/SafuGit)
+[![Portfolio](https://img.shields.io/badge/portfolio-safu-FFD700?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=1a1a1a)](https://safu-portfolio.netlify.app)
+💬 **Ask me about:** Web Development, Android Development, Software Engineering, Linux, DevOps.
+
+</div>
 
 ---
 
-### 📞 Contact Me
+<div align="center">
 
-Feel free to reach out or connect with me!
+## 📞 Let's Connect!
 
-| 📧 Email                                           | 📱 Phone/WhatsApp   | 🐙 GitHub                            |
-| -------------------------------------------------- | ------------------- | ----------------------------------- |
-| safwansadid.ah@gmail.com / safwan55.ah@gmail.com   |       | [SafuGit](https://github.com/SafuGit) |
+*Open to job opportunities, collaboration, freelance opportunities, and tech discussions*
+
+</div>
+<div align="center">
+  
+  <table width="100%">
+  <tr>
+  <td align="center" width="33%">
+  
+  ### 📧 Email
+  
+  **Primary:**
+  [safwansadid.ah@gmail.com](mailto:safwansadid.ah@gmail.com)
+  
+  **Secondary:**
+  [safwan55.ah@gmail.com](mailto:safwan55.ah@gmail.com)
+  
+  </td>
+  <td align="center" width="34%">
+  
+  ### 💼 Available For
+  
+  **Freelance Projects** ✅
+  **Full-time Roles** ✅
+  **Collaborations** ✅
+  **Consultations** ✅
+  
+  </td>
+  <td align="center" width="33%">
+  
+  ### 🚀 Services Offered
+  
+  **Web Development** 🌐
+  **Android Apps** 📱
+  **Software Solutions** 💻
+  **Tech Consulting** 🎯
+  
+  </td>
+  </tr>
+  </table>
+</div>
+
+<br>
+<div align="center">
+  
+  [![Email Me](https://img.shields.io/badge/Email%20Me-FFD700?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a)](mailto:safwansadid.ah@gmail.com) [![View GitHub](https://img.shields.io/badge/View%20GitHub-FFD700?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a)](https://github.com/SafuGit)
+</div>
+
+</div>
 
 ---
 
-### 📊 GitHub Statistics
+<div align="center">
+
+## 📊 GitHub Statistics
+
+*Tracking progress and consistency*
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=SafuGit&theme=dark&hide_border=true&border_radius=8&date_format=M%20j%5B%2C%20Y%5D&background=1A1A1A&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideNums=FFD700&currStreakNum=FFD700&dates=FFFFFF&sideLabels=FFFFFF" alt="GitHub Streak" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=SafuGit&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+
+</div>
+
+<br>
 
 <picture>
-  <source srcset="https://github-readme-activity-graph.vercel.app/graph?username=SafuGit&theme=react-dark" media="(prefers-color-scheme: dark)">
-  <source srcset="https://github-readme-activity-graph.vercel.app/graph?username=SafuGit&bg_color=ffffff&color=2e700a&line=228415&point=403d3d&area=true&hide_border=true" media="(prefers-color-scheme: light)">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SafuGit" alt="GitHub Activity Graph" />
+  <source srcset="https://github-readme-activity-graph.vercel.app/graph?username=SafuGit&theme=react-dark&bg_color=1a1a1a&color=FFD700&line=FFD700&point=ffffff&area=true&hide_border=true" media="(prefers-color-scheme: dark)">
+  <source srcset="https://github-readme-activity-graph.vercel.app/graph?username=SafuGit&bg_color=ffffff&color=2e700a&line=FFD700&point=403d3d&area=true&hide_border=true" media="(prefers-color-scheme: light)">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SafuGit&theme=react-dark&bg_color=1a1a1a&color=FFD700&line=FFD700&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </picture>
 
 <picture>
   <source srcset="https://raw.githubusercontent.com/SafuGit/SafuGit/output/github-contribution-grid-snake-dark.svg" media="(prefers-color-scheme: dark)">
   <source srcset="https://raw.githubusercontent.com/SafuGit/SafuGit/output/github-contribution-grid-snake.svg" media="(prefers-color-scheme: light)">
-  <img src="https://raw.githubusercontent.com/SafuGit/SafuGit/output/github-contribution-grid-snake-light.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/SafuGit/SafuGit/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </picture>
 
-<p align="left">
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api?username=SafuGit&theme=dark&show_icons=true&hide_border=false&count_private=true" media="(prefers-color-scheme: dark)">
-    <source srcset="https://github-readme-stats.vercel.app/api?username=SafuGit&theme=light&show_icons=true&hide_border=false&count_private=true" media="(prefers-color-scheme: light)">
-    <img src="https://github-readme-stats.vercel.app/api?username=SafuGit&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" />
-  </picture>
+<br>
 
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SafuGit&theme=dark&show_icons=true&hide_border=false&layout=compact" media="(prefers-color-scheme: dark)">
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SafuGit&theme=light&show_icons=true&hide_border=false&layout=compact" media="(prefers-color-scheme: light)">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SafuGit&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" />
-  </picture>
-</p>
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SafuGit&show_icons=true&theme=dark&hide_border=true&bg_color=1a1a1a&title_color=FFD700&icon_color=FFD700&text_color=ffffff&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SafuGit&layout=compact&theme=dark&hide_border=true&bg_color=1a1a1a&title_color=FFD700&text_color=ffffff&langs_count=8" alt="Top Languages" />
+</div>
+
+<br>
+
+<div align="center">
+
+### ⚡ Quick Stats
+
+![](https://img.shields.io/badge/Focus-Full%20Stack%20Development-FFD700?style=flat-square&labelColor=1a1a1a)
+![](https://img.shields.io/badge/Experience-3%2B%20Years-FFD700?style=flat-square&labelColor=1a1a1a)
+![](https://img.shields.io/badge/Languages-8%2B-FFD700?style=flat-square&labelColor=1a1a1a)
+![](https://img.shields.io/badge/Available%20For-Hire-FFD700?style=flat-square&labelColor=1a1a1a)
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=FFD700&animation=twinkling" width="100%"/>
+
+**"Code is like humor. When you have to explain it, it's bad." – Cory House**
+
+[![Back to Top](https://img.shields.io/badge/Back%20to%20Top%20↑-FFD700?style=for-the-badge&labelColor=1a1a1a)](#)
+
+</div>
