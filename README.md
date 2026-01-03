@@ -4,26 +4,26 @@
 
 </div> -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=700&color=FFD700&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;Android+Developer;Software+Developer;Building+Web+Apps+with+React+%26+Next.js+-+React%2FNext.js+Developer;Scalable+Backends+with+Node+%26+Spring+Boot+-+Node%2FSpring+Boot+Developer;Flutter+%26+Native+Android+Apps+-+Flutter+Developer;REST+APIs+%7C+JWT+%7C+Auth+Systems+-+Backend+Developer;PostgreSQL+%7C+MongoDB+%7C+Firebase+-+Database+Developer;Dockerized+Production+Systems+-+DevOps+Developer;Linux+%26+System+Workflows+-+System+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=700&color=FFD700&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;Android+Developer;Software+Developer;React%2FNext.js+Developer;Node%2FSpring+Boot+Developer;Flutter+Developer;Backend+Developer;Database+Developer;DevOps+Developer;System+Developer)](https://git.io/typing-svg)
 
 ```console
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
+┌───────────────────────────────────────────────────────────────┐
+│                                                               │
 │   ███████╗ █████╗ ███████╗██╗    ██╗ █████╗ ███╗   ██╗        │
 │   ██╔════╝██╔══██╗██╔════╝██║    ██║██╔══██╗████╗  ██║        │
 │   ███████╗███████║█████╗  ██║ █╗ ██║███████║██╔██╗ ██║        │
 │   ╚════██║██╔══██║██╔══╝  ██║███╗██║██╔══██║██║╚██╗██║        │
 │   ███████║██║  ██║██║     ╚███╔███╔╝██║  ██║██║ ╚████║        │
 │   ╚══════╝╚═╝  ╚═╝╚═╝      ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝  ╚═══╝        │
-│                                                              │
+│                                                               │
 │   > Full Stack • Android • Software Engineer                  │
 │   > "And say: My Lord, increase me in knowledge."             │
 │     — Qur'an 20:114                                           │
-│                                                              │
+│                                                               │
 │   Email : safwansadid.ah@gmail.com                            │
 │   Phone : +8801981575920                                      │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
+│                                                               │
+└───────────────────────────────────────────────────────────────┘
 ```
 
 <div align="center">
