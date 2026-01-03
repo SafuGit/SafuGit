@@ -1,8 +1,10 @@
-<div align="center">
+<!-- <div align="center">
 
-<!-- ![Banner](https://github.com/user-attachments/assets/6382d1a1-d804-41a6-aae1-3185e8f67cfc) -->
+![Banner](https://github.com/user-attachments/assets/6382d1a1-d804-41a6-aae1-3185e8f67cfc)
 
-</div>
+</div> -->
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=700&color=FFD700&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;Android+Developer;Software+Developer;Building+Web+Apps+with+React+%26+Next.js+-+React%2FNext.js+Developer;Scalable+Backends+with+Node+%26+Spring+Boot+-+Node%2FSpring+Boot+Developer;Flutter+%26+Native+Android+Apps+-+Flutter+Developer;REST+APIs+%7C+JWT+%7C+Auth+Systems+-+Backend+Developer;PostgreSQL+%7C+MongoDB+%7C+Firebase+-+Database+Developer;Dockerized+Production+Systems+-+DevOps+Developer;Linux+%26+System+Workflows+-+System+Developer)](https://git.io/typing-svg)
 
 ```console
 ┌──────────────────────────────────────────────────────────────┐
@@ -25,8 +27,6 @@
 ```
 
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1200&color=FFD700&center=true&vCenter=true&width=650&lines=Software+Engineer;Builds+Full-Stack+Systems;Web+%E2%80%A2+Mobile+%E2%80%A2+Backend)](https://git.io/typing-svg)
 
 </div>
 
