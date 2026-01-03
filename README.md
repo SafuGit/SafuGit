@@ -30,7 +30,7 @@
 
 </div>
 
-## `>_ whoami`
+## `$ cat` About Me
 
 <details open>
 <summary><strong style="color: #FFD700;">📁 profile.sys</strong></summary>
@@ -86,7 +86,7 @@ UPTIME: 3+ years in production
 
 </details>
 
-## `>_ ls -la /dependencies/`
+## `$ ls` Tech Stack & Skills
 
 <!-- START_SKILLS -->
 <details>
@@ -164,7 +164,7 @@ EPS                 Payment Gateway     JWT Authentication
 
 </details><!-- END_SKILLS -->
 
-## `>_ cat /var/log/contact.cfg`
+## `$ echo` Let's Connect
 
 <details open>
 <summary><strong style="color: #FFD700;">📁 connection_endpoints.log</strong></summary>
@@ -206,7 +206,7 @@ $ netstat -contact | grep ESTABLISHED
 
 </details>
 
-## `>_ ./stats.sh --github`
+## `$ ./stats` GitHub Statistics
 
 <details>
 <summary><strong style="color: #FFD700;">📁 performance_metrics.sys</strong></summary>
