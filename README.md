@@ -4,6 +4,8 @@
 
 # Hi, I'm **Safwan Sadid**
 
+> *"And say: My Lord, increase me in knowledge." — Qur'an 20:114*
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Web+Developer;Android+Developer;Software+Developer;Linux+Enthusiast;Problem+Solver)](https://git.io/typing-svg)
 
 </div>
