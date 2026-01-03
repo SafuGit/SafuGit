@@ -195,15 +195,6 @@ $ netstat -contact | grep ESTABLISHED
 ================================================================================
 ```
 
-<div align="center">
-
-[![Email Me](https://img.shields.io/badge/Email%20Me-FFD700?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a)](mailto:safwansadid.ah@gmail.com)
-[![Schedule Meeting](https://img.shields.io/badge/Schedule%20Meeting-FFD700?style=for-the-badge&logo=google-calendar&logoColor=white&labelColor=1a1a1a)](#)
-[![View Portfolio](https://img.shields.io/badge/View%20Portfolio-FFD700?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=1a1a1a)](https://safu-portfolio.netlify.app)
-[![View GitHub](https://img.shields.io/badge/View%20GitHub-FFD700?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a)](https://github.com/SafuGit)
-
-</div>
-
 </details>
 
 ## `$ ./stats` GitHub Statistics
@@ -220,19 +211,7 @@ $ sudo systemctl status github-activity
 ================================================================================
 ```
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=SafuGit&theme=dark&hide_border=true&border_radius=8&date_format=M%20j%5B%2C%20Y%5D&background=1A1A1A&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideNums=FFD700&currStreakNum=FFD700&dates=FFFFFF&sideLabels=FFFFFF" alt="GitHub Streak" />
-
-</div>
-
 <br>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SafuGit&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-
-</div>
 
 <br>
 
@@ -250,10 +229,10 @@ $ sudo systemctl status github-activity
 
 <br>
 
-<div align="center">
+<!-- <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SafuGit&show_icons=true&theme=dark&hide_border=true&bg_color=1a1a1a&title_color=FFD700&icon_color=FFD700&text_color=ffffff&count_private=true&include_all_commits=true" alt="GitHub Stats" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SafuGit&layout=compact&theme=dark&hide_border=true&bg_color=1a1a1a&title_color=FFD700&text_color=ffffff&langs_count=8" alt="Top Languages" />
-</div>
+</div> -->
 
 <br>
 
@@ -269,10 +248,10 @@ $ sudo systemctl status github-activity
 
 <div align="center">
 
-![](https://img.shields.io/badge/Focus-Full%20Stack%20Development-FFD700?style=flat-square&labelColor=1a1a1a)
+<!-- ![](https://img.shields.io/badge/Focus-Full%20Stack%20Development-FFD700?style=flat-square&labelColor=1a1a1a)
 ![](https://img.shields.io/badge/Experience-3%2B%20Years-FFD700?style=flat-square&labelColor=1a1a1a)
 ![](https://img.shields.io/badge/Languages-8%2B-FFD700?style=flat-square&labelColor=1a1a1a)
-![](https://img.shields.io/badge/Available%20For-Hire-FFD700?style=flat-square&labelColor=1a1a1a)
+![](https://img.shields.io/badge/Available%20For-Hire-FFD700?style=flat-square&labelColor=1a1a1a) -->
 
 </div>
 
@@ -281,6 +260,15 @@ $ sudo systemctl status github-activity
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=FFD700&animation=twinkling" width="100%"/>
+
+<div align="center">
+
+[![Email Me](https://img.shields.io/badge/Email%20Me-FFD700?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a)](mailto:safwansadid.ah@gmail.com)
+[![Schedule Meeting](https://img.shields.io/badge/Schedule%20Meeting-FFD700?style=for-the-badge&logo=google-calendar&logoColor=white&labelColor=1a1a1a)](#)
+[![View Portfolio](https://img.shields.io/badge/View%20Portfolio-FFD700?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=1a1a1a)](https://safu-portfolio.netlify.app)
+[![View GitHub](https://img.shields.io/badge/View%20GitHub-FFD700?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a)](https://github.com/SafuGit)
+
+</div>
 
 [![Back to Top](https://img.shields.io/badge/⬆%20Back%20to%20Top-FFD700?style=for-the-badge&labelColor=1a1a1a)](#)
 
