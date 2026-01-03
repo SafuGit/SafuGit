@@ -30,7 +30,7 @@
 
 </div>
 
-## `$ cat` About Me
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFD700&height=50&section=header&text=$%20cat%20About%20Me&fontColor=1a1a1a&fontSize=24&fontAlignY=50&desc=%20&descAlignY=50" />
 
 <details open>
 <summary><strong style="color: #FFD700;">📁 profile.sys</strong></summary>
@@ -86,7 +86,7 @@ UPTIME: 3+ years in production
 
 </details>
 
-## `$ ls` Tech Stack & Skills
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFD700&height=50&section=header&text=$%20ls%20Tech%20Stack%20%26%20Skills&fontColor=1a1a1a&fontSize=24&fontAlignY=50&desc=%20&descAlignY=50" />
 
 <!-- START_SKILLS -->
 <details>
@@ -164,7 +164,7 @@ EPS                 Payment Gateway     JWT Authentication
 
 </details><!-- END_SKILLS -->
 
-## `$ echo` Let's Connect
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFD700&height=50&section=header&text=$%20echo%20Let's%20Connect&fontColor=1a1a1a&fontSize=24&fontAlignY=50&desc=%20&descAlignY=50" />
 
 <details open>
 <summary><strong style="color: #FFD700;">📁 connection_endpoints.log</strong></summary>
@@ -206,7 +206,7 @@ $ netstat -contact | grep ESTABLISHED
 
 </details>
 
-## `$ ./stats` GitHub Statistics
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFD700&height=50&section=header&text=$%20./stats%20GitHub%20Statistics&fontColor=1a1a1a&fontSize=24&fontAlignY=50&desc=%20&descAlignY=50" />
 
 <details>
 <summary><strong style="color: #FFD700;">📁 performance_metrics.sys</strong></summary>
@@ -281,11 +281,6 @@ $ sudo systemctl status github-activity
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=FFD700&animation=twinkling" width="100%"/>
-
-```console
-$ echo "Code is like humor. When you have to explain it, it's bad." – Cory House
-$ exit
-```
 
 [![Back to Top](https://img.shields.io/badge/⬆%20Back%20to%20Top-FFD700?style=for-the-badge&labelColor=1a1a1a)](#)
 
