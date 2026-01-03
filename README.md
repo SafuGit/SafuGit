@@ -27,7 +27,7 @@ location: Bangladesh 🇧🇩
 role: Web • Android • Software Developer
 experience: 3+ years
 specializations:
-  - Full Stack Web Development (MERN, MEAN, Spring Boot)
+  - Full Stack Web Development
   - Android App Development (Flutter, Native)
   - Desktop Software (Java, Python)
   - Linux System Administration
@@ -36,7 +36,7 @@ passion:
   - Exploring cutting-edge technologies
   - Leading collaborative teams
   - Solving real-world problems
-current_status: Open to new opportunities 🔥
+current_status: Open to new opportunities
 ```
 
 <div align="center">
@@ -366,29 +366,11 @@ current_status: Open to new opportunities 🔥
 
 <div align="center">
 
-## 🌐 Online Presence
-
-</div>
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-SafuGit-FFD700?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a)](https://github.com/SafuGit)
-[![Portfolio](https://img.shields.io/badge/portfolio-safu-FFD700?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=1a1a1a)](https://safu-portfolio.netlify.app)
-
-💬 **Ask me about:** Web Development, Android Development, Software Engineering, Linux, DevOps.
-
-</div>
-
----
-
-<div align="center">
-
 ## 📞 Let's Connect!
 
 *Open to job opportunities, collaboration, freelance opportunities, and tech discussions*
 
-</div>
-<table width="100%">
+<table align="center" width="100%">
 <tr>
 <td align="center" width="50%">
 
@@ -420,6 +402,7 @@ current_status: Open to new opportunities 🔥
 
 [![Email Me](https://img.shields.io/badge/Email%20Me-FFD700?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a)](mailto:safwansadid.ah@gmail.com)
 [![Schedule Meeting](https://img.shields.io/badge/Schedule%20Meeting-FFD700?style=for-the-badge&logo=google-calendar&logoColor=white&labelColor=1a1a1a)](#)
+[![View Portfolio](https://img.shields.io/badge/View%20Portfolio-FFD700?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=1a1a1a)](https://safu-portfolio.netlify.app)
 [![View GitHub](https://img.shields.io/badge/View%20GitHub-FFD700?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a)](https://github.com/SafuGit)
 
 </div>
