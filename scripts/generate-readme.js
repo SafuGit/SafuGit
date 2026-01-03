@@ -1,7 +1,7 @@
 const fs = require("fs");
 const fetch = require("node-fetch"); // npm install node-fetch@2 if needed
 
-const API_URL = "https://dev-registry.onrender.com/api/skills/user/4";
+const API_URL = "https://dev-registry.onrender.com/api/skills/user/4?categories=Frontend,Backend,Languages,Databases,Tools,AI%20Tools,Services";
 const README_PATH = "README.md";
 
 // Fetch data from dev-registry
